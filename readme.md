@@ -42,8 +42,8 @@
 <br>
 <img align="center" src="./plus\Languages\cpp.png" alt="" width="60px" height="60px">
 <img align="center" src="./plus\Languages\jss.png" alt="" width="65px" height="60px">
-<img align="center" src="./plus\Languages\html.png" alt="" width="70px" height="70px">
-<img align="center" src="./plus\Languages\css.png" alt="" width="70px" height="70px">
+<img align="center" src="./plus\Languages\html.png" alt="" width="60px" height="60px">
+<img align="center" src="./plus\Languages\css.png" alt="" width="60px" height="60px">
 <img align="center" src="./plus\Languages\gitg.png" alt="" width="60px" height="60px">
 <img align="center" src="./plus\Languages\git.png" alt="" width="70px" height="70px">
 <img align="center" src="./plus\Languages\react.png" alt="" width="70px" height="70px">
