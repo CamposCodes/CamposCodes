@@ -1,6 +1,6 @@
 #   About me
 
-<h2 align="left">Hi you there... <img align="center" width="50px" height="50px" src="./plus/hello.gif" alt=""><br><p align="center">I'm <i>Gabriel Campos</i>.</p></h2>
+<h2 align="left">Hi you there... <img align="center" width="50px" height="50px" src="./plus/hello.gif" alt=""><br><p align="center">I'm <i>Gabriel Campos Lima Alves</i></p></h2>
 
 <br>
 <div>
@@ -12,7 +12,7 @@
 <hr>
 
 <br>
-<img align="left" src="./plus/yy.png" alt="" width="68px" height="65px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b>.</p>
+<img align="left" src="./plus/yy.png" alt="" width="68px" height="65px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b></p>
 <br>
 <br>
 <img align="left" src="./plus/zz.png" alt="" width="68px" height="65px"><p>Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
@@ -24,6 +24,11 @@
 <br>
 <img align="left" src="./plus\b.png" alt="" width="68px" height="65px">
 <p> How to reach me <b>dev.camposgabriel@gmail.com</b></p>
+<br>
+<br>
+<hr>
+<h2>Connect with me: </h2>
+
 
 
 
