@@ -55,4 +55,19 @@
   <h5>I also produce <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a></h5> 
   </p>
 </details>
+<br>
+<details>
+  <summary>Git Stats...</summary>
+<br> 
+<div align="center">
+<h3>My stats</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+<br>
+<h3>Language card</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=dark)](https://github.com/CamposCodes/github-readme-stats)
+
+</div>
+</details>
 </div>
