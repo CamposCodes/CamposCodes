@@ -6,10 +6,9 @@
 <img width="210px" height="150px" align="right" src="./plus/me.png" alt="">
 <h4 align="left" > I am a I.T. student who is passionate about writing code, solving problems, and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.</h4>
 </div>
-<hr align="left" width="100px">
-<hr align="left" width="100px">
-<hr align="left" width="100px">
-<hr align="left" width="100px">
+<br>
+<hr>
+
 <br>
 <img align="left" src="./plus/x.png" alt="" width="65px" height="55px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b>.</p>
 <br>
