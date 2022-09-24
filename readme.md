@@ -10,14 +10,14 @@
 <hr>
 
 <br>
-<img align="left" src="./plus/yy.png" alt="" width="68px" height="65px"> <p align="center">Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b>.</p>
+<img align="left" src="./plus/yy.png" alt="" width="68px" height="65px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b>.</p>
 <br>
 <br>
-<img align="left" src="./plus/zz.png" alt="" width="68px" height="65px"><p align="center">Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
+<img align="center" src="./plus/zz.png" alt="" width="68px" height="65px"><p>Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
 <br>
 <br>
 <img align="left" src="./plus\a.png" alt="" width="68px" height="65px">
-<p align="center">I’m currently learning <b>Frameworks</b> (React - React Native)</p>
+<p>I’m currently learning <b>Frameworks</b> (React - React Native)</p>
 
 
 
