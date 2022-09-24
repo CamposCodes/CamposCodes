@@ -1,5 +1,5 @@
 #   About me
-<h2 align="center">Hi you there 👋🏻 I'm Gabriel Campos.</h2>
+<h2 align="center">Hi you there <img align="center" width="50px" height="50px" src="./plus/hello.gif" alt="">I'm Gabriel Campos.</h2>
 
 <br>
 <div>
