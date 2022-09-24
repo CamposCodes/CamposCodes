@@ -13,18 +13,16 @@
 </div>
 
 <br>
-<hr>
-<br>
 
-<div>
+
 
 <img align="left" src="./plus/x.png" alt="" width="65px" height="55px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b>.</p>
 
-<br>
+
 
 <img align="left" src="./plus/xx.png" alt="" width="58px" height="55px"><p>Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
 
-</div>
+
 
 
 <br>
