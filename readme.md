@@ -6,7 +6,7 @@
 <div>
 <img width="210px" height="150px" align="right" src="./plus/me.png" alt="">
 
-<h2 align="left" > I am a I.T. student who is passionate about writing code, solving problems, and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.</h2>
+<h3 align="left" > I am a I.T. student who is passionate about writing code, solving problems, and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.</h3>
 </div>
 <br>
 <hr>
