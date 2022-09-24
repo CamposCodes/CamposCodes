@@ -29,13 +29,10 @@
 <hr>
 <h2>Connect with me: </h2>
 
-
-<a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus\ig2.gif" alt="" width="40px" height="40px"></a>
-<a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus\in.gif" alt="" width="40px" height="40px"></a>
-
-
-
-
+<div align="center">
+<a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus\ig2.gif" alt="" width="60px" height="60px"></a>
+<a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus\in.gif" alt="" width="60px" height="60px"></a>
+</div>
 
 <br>
 
