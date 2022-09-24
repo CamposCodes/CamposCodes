@@ -40,8 +40,8 @@
 <div align="center">
 <h3> Some of my skills are: </h3>
 <br>
-<img align="center" src="./plus\Languages\cpp.png" alt="" width="60px" height="60px">
-<img align="center" src="./plus\Languages\jss.png" alt="" width="65px" height="60px">
+<img align="center" src="./plus\Languages\cpp.png" alt="" width="70px" height="70px">
+<img align="center" src="./plus\Languages\jss.png" alt="" width="75px" height="70px">
 <img align="center" src="./plus\Languages\html.png" alt="" width="55px" height="60px">
 <img align="center" src="./plus\Languages\css.png" alt="" width="52px" height="58px">
 <img align="center" src="./plus\Languages\git.png" alt="" width="70px" height="70px">
