@@ -45,17 +45,11 @@
 <a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus\ig.png" alt="" width="70px" height="70px"></a>
 <a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus\in.png" alt="" width="70px" height="70px"></a>
 </div>
+
 <br>
 
-
-<div align="left">
-<details>
-  <summary>More about me...</summary>
-  <p><h4>Fun facts: </h4> 
-  <h5>I also produce <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a></h5> 
-  </p>
-</details>
 <br>
+
 <details>
   <summary>Git Stats...</summary>
 <br> 
@@ -70,4 +64,13 @@
 
 </div>
 </details>
-</div>
+
+<br>
+ 
+<div align="left">
+<details>
+  <summary>More about me...</summary>
+  <p><h4>Fun facts: </h4> 
+  <h5>I also produce <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a></h5> 
+  </p>
+</details>
