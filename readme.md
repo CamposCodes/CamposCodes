@@ -38,7 +38,7 @@
 
 
 <div align="center">
-<h2> Some of my skills are: </h2>
+<h3> Some of my skills are: </h3>
 <br>
 <img align="center" src="./plus\Languages\cpp.png" alt="" width="60px" height="60px">
 <img align="center" src="./plus\Languages\jss.png" alt="" width="65px" height="60px">
