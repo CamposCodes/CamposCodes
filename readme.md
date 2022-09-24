@@ -27,16 +27,6 @@
 <br>
 <br>
 
-
-<div align="center">
-<h3>Connect with me: </h3>
-<br>
-<a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus\ig.png" alt="" width="70px" height="70px"></a>
-<a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus\in.png" alt="" width="70px" height="70px"></a>
-</div>
-<br>
-
-
 <div align="center">
 <h3> Some of my skills are: </h3>
 <br>
@@ -50,3 +40,12 @@
 <img align="center" src="./plus\Languages\reactN.png" alt="" width="70px" height="70px">
 
 </div>
+
+<div align="center">
+<h3>Connect with me: </h3>
+<br>
+<a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus\ig.png" alt="" width="70px" height="70px"></a>
+<a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus\in.png" alt="" width="70px" height="70px"></a>
+</div>
+<br>
+
