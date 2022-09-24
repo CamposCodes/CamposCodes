@@ -1,9 +1,11 @@
 #   About me
-<h2 align="center">Hi you there... <img align="center" width="50px" height="50px" src="./plus/hello.gif" alt=""><br>I'm Gabriel Campos.</h2>
+
+<h2 align="left">Hi you there... <img align="center" width="50px" height="50px" src="./plus/hello.gif" alt=""><br><p align="center">I'm Gabriel Campos.</p></h2>
 
 <br>
 <div>
 <img width="210px" height="150px" align="right" src="./plus/me.png" alt="">
+
 <h3 align="left" > I am a I.T. student who is passionate about writing code, solving problems, and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.</h3>
 </div>
 <br>
