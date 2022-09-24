@@ -10,7 +10,7 @@
 </div>
 <br>
 <hr>
-
+<div align="center">
 <br>
 <img align="left" src="./plus/yy.png" alt="" width="68px" height="65px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b></p>
 <br>
@@ -26,6 +26,7 @@
 <p> How to reach me <b>dev.camposgabriel@gmail.com</b></p>
 <br>
 <br>
+</div>
 <hr>
 <h2>Connect with me: </h2>
 
