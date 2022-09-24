@@ -18,6 +18,10 @@
 <br>
 <img align="left" src="./plus\a.png" alt="" width="68px" height="65px">
 <p>I’m currently learning <b>Frameworks</b> (React - React Native)</p>
+<br>
+<br>
+<img align="left" src="./plus\b.png" alt="" width="68px" height="65px">
+<p> How to reach me <b>dev.camposgabriel@gmail.com</b></p>
 
 
 
