@@ -10,7 +10,7 @@
 </div>
 <br>
 <hr>
-<div align="center">
+
 <br>
 <img align="left" src="./plus/yy.png" alt="" width="68px" height="65px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b></p>
 <br>
@@ -26,11 +26,11 @@
 <p> How to reach me <b>dev.camposgabriel@gmail.com</b></p>
 <br>
 <br>
-</div>
-<hr>
-<h2>Connect with me: </h2>
+
 
 <div align="center">
+<h2>Connect with me: </h2>
+<br>
 <a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus\ig2.gif" alt="" width="60px" height="60px"></a>
 <a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus\in.gif" alt="" width="60px" height="60px"></a>
 </div>
