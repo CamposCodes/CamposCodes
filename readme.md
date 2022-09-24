@@ -1,6 +1,6 @@
 #   About me
 
-<h2 align="left">Hi you there... <img align="center" width="50px" height="50px" src="./plus/hello.gif" alt=""><br><p align="center">I'm Gabriel Campos.</p></h2>
+<h2 align="left">Hi you there... <img align="center" width="50px" height="50px" src="./plus/hello.gif" alt=""><br><p align="center">I'm <i>Gabriel Campos</i>.</p></h2>
 
 <br>
 <div>
