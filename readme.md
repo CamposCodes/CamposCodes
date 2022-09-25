@@ -24,8 +24,8 @@
 <br>
 <img align="left" src="./plus\b.png" alt="" width="58px" height="55px">
 <p> How to reach me <b>dev.camposgabriel@gmail.com</b></p>
-<br>
-<br>
+
+
 
 <div align="center">
 <h3> Some of my skills are: </h3>
@@ -46,7 +46,7 @@
 <a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus\in.png" alt="" width="50px" height="50px"></a>
 </div>
 
-<br>
+
 
 <br>
 
