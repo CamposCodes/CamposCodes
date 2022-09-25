@@ -15,7 +15,7 @@
 <img align="left" src="./plus/yy.png" alt="" width="58px" height="55px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b></p>
 <br>
 <br>
-<img align="left" src="./plus/zz.png" alt="" width="58px" height="55px"><p>Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
+<img align="left" src="./plus/zz.png" alt="" width="58px" height="55px"><p align="left">Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
 <br>
 <br>
 <img align="left" src="./plus\a.png" alt="" width="58px" height="55px">
@@ -54,9 +54,9 @@
   <summary>Git Stats...</summary>
 <br> 
 <div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dark&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/CamposCodes">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CamposCodes&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 </details>
