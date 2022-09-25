@@ -12,38 +12,38 @@
 <hr>
 
 <br>
-<img align="left" src="./plus/yy.png" alt="" width="68px" height="65px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b></p>
+<img align="left" src="./plus/yy.png" alt="" width="58px" height="55px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b></p>
 <br>
 <br>
-<img align="left" src="./plus/zz.png" alt="" width="68px" height="65px"><p>Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
+<img align="left" src="./plus/zz.png" alt="" width="58px" height="55px"><p>Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
 <br>
 <br>
-<img align="left" src="./plus\a.png" alt="" width="68px" height="65px">
+<img align="left" src="./plus\a.png" alt="" width="58px" height="55px">
 <p>I’m currently learning <b>Frameworks</b> (React - React Native)</p>
 <br>
 <br>
-<img align="left" src="./plus\b.png" alt="" width="68px" height="65px">
+<img align="left" src="./plus\b.png" alt="" width="58px" height="55px">
 <p> How to reach me <b>dev.camposgabriel@gmail.com</b></p>
 <br>
 <br>
 
 <div align="center">
 <h3> Some of my skills are: </h3>
-<img align="center" src="./plus\Languages\cpp.png" alt="" width="70px" height="70px">
-<img align="center" src="./plus\Languages\jss.png" alt="" width="75px" height="70px">
-<img align="center" src="./plus\Languages\html.png" alt="" width="55px" height="60px">
-<img align="center" src="./plus\Languages\css.png" alt="" width="55px" height="56px">
-<img align="center" src="./plus\Languages\git.png" alt="" width="70px" height="70px">
-<img align="center" src="./plus\Languages\gitg.png" alt="" width="60px" height="60px">
-<img align="center" src="./plus\Languages\react.png" alt="" width="70px" height="70px">
-<img align="center" src="./plus\Languages\reactN.png" alt="" width="70px" height="70px">
+<img align="center" src="./plus\Languages\cpp.png" alt="" width="50px" height="50px">
+<img align="center" src="./plus\Languages\jss.png" alt="" width="55px" height="50px">
+<img align="center" src="./plus\Languages\html.png" alt="" width="36px" height="40px">
+<img align="center" src="./plus\Languages\css.png" alt="" width="36px" height="36px">
+<img align="center" src="./plus\Languages\git.png" alt="" width="50px" height="50px">
+<img align="center" src="./plus\Languages\gitg.png" alt="" width="40px" height="40px">
+<img align="center" src="./plus\Languages\react.png" alt="" width="50px" height="50px">
+<img align="center" src="./plus\Languages\reactN.png" alt="" width="50px" height="50px">
 
 </div>
 
 <div align="center">
 <h3>Connect with me: </h3>
-<a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus\ig.png" alt="" width="70px" height="70px"></a>
-<a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus\in.png" alt="" width="70px" height="70px"></a>
+<a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus\ig.png" alt="" width="50px" height="50px"></a>
+<a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus\in.png" alt="" width="50px" height="50px"></a>
 </div>
 
 <br>
@@ -54,14 +54,10 @@
   <summary>Git Stats...</summary>
 <br> 
 <div align="center">
-<h3>My stats</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-<br>
-<h3>Language card</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=dark)](https://github.com/CamposCodes/github-readme-stats)
-
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 </details>
 
