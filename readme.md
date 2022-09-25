@@ -12,17 +12,17 @@
 <hr>
 
 <br>
-<img align="left" src="./plus/yy.png" alt="" width="48px" height="45px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b></p>
+<img align="left" src="./plus/yy.png" alt="" width="58px" height="55px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b></p>
 <br>
 <br>
-<img align="left" src="./plus/zz.png" alt="" width="48px" height="45px"><p align="left">Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
+<img align="left" src="./plus/zz.png" alt="" width="58px" height="55px"><p align="left">Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
 <br>
 <br>
-<img align="left" src="./plus\a.png" alt="" width="48px" height="45px">
+<img align="left" src="./plus\a.png" alt="" width="58px" height="55px">
 <p>I’m currently learning <b>Frameworks</b> (React - React Native)</p>
 <br>
 <br>
-<img align="left" src="./plus\b.png" alt="" width="48px" height="45px">
+<img align="left" src="./plus\b.png" alt="" width="58px" height="55px">
 <p> How to reach me <b>dev.camposgabriel@gmail.com</b></p>
 
 
