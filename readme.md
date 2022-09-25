@@ -24,7 +24,7 @@
 <br>
 <img align="left" src="./plus\b.png" alt="" width="58px" height="55px">
 <p> How to reach me <b>dev.camposgabriel@gmail.com</b></p>
-
+<br>
 
 
 <div align="center">
