@@ -1,5 +1,3 @@
-#   About me
-
 <h2 align="left">Hi you there... <img align="center" width="50px" height="50px" src="./plus/hello.gif" alt=""><br><p align="center">I'm <i>Gabriel Campos Lima Alves</i></p></h2>
 
 <br>
