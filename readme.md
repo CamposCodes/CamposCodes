@@ -1,27 +1,28 @@
-<h2 align="left">Hi you there... <img align="center" width="50px" height="50px" src="./plus/hello.gif" alt=""><br><p align="center">I'm <i>Gabriel Campos Lima Alves</i></p></h2>
+#   About me
+
+<h2 align="left">Hi you there... <img align="center" width="50px" height="50px" src="./plus/Main/hello.gif" alt=""><br><p align="center">I'm <i>Gabriel Campos Lima Alves</i></p></h2>
 
 <br>
 <div>
-<img width="210px" height="150px" align="right" src="./plus/me.png" alt="">
+<img width="210px" height="150px" align="right" src="./plus/Main/top.png" alt="">
 
 <h3 align="left" > I am a I.T. student who is passionate about writing code, solving problems, and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.</h3>
 </div>
-<p>PT-BR version :</p>
 <br>
 <hr>
 
 <br>
-<img align="left" src="./plus/yy.png" alt="" width="58px" height="55px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b></p>
+<img align="left" src="./plus/Main/tip1.png" alt="" width="58px" height="55px"> <p>Actually i am studying I.T. in <b>Universidade Federal de Juiz de Fora</b></p>
 <br>
 <br>
-<img align="left" src="./plus/zz.png" alt="" width="58px" height="55px"><p align="left">Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
+<img align="left" src="./plus/Main/tip2.png" alt="" width="58px" height="55px"><p align="left">Looking for the <b>first professional experience</b> as a <b>Front-end Developer</b></p>
 <br>
 <br>
-<img align="left" src="./plus\a.png" alt="" width="58px" height="55px">
+<img align="left" src="./plus/Main/tip3.png" alt="" width="58px" height="55px">
 <p>I’m currently learning <b>Frameworks</b> (React - React Native)</p>
 <br>
 <br>
-<img align="left" src="./plus\b.png" alt="" width="58px" height="55px">
+<img align="left" src="./plus/Main/tip4.png" alt="" width="58px" height="55px">
 <p> How to reach me <b>dev.camposgabriel@gmail.com</b></p>
 <br>
 
@@ -29,6 +30,7 @@
 <div align="center">
 <h3> Some of my skills are: </h3>
 <img align="center" src="./plus\Languages\jss.png" alt="" width="55px" height="50px">
+<img align="center" src="./plus\Languages\typescript.png" alt="" width="40px" height="39px">
 <img align="center" src="./plus\Languages\html.png" alt="" width="36px" height="40px">
 <img align="center" src="./plus\Languages\css.png" alt="" width="36px" height="36px">
 <img align="center" src="./plus\Languages\gitg.png" alt="" width="40px" height="40px">
@@ -41,8 +43,8 @@
 
 <div align="center">
 <h3>Connect with me: </h3>
-<a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus\ig.png" alt="" width="50px" height="50px"></a>
-<a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus\in.png" alt="" width="50px" height="50px"></a>
+<a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus/Networks/ig.png" alt="" width="50px" height="50px"></a>
+<a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus/Networks/in.png" alt="" width="50px" height="50px"></a>
 </div>
 
 
@@ -71,4 +73,8 @@
 </details>
 
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
