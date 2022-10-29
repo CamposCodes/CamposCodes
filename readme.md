@@ -28,7 +28,7 @@
 <div align="center">
 <h3> Some of my skills are: </h3>
 <img align="center" src="./plus\Languages\jss.png" alt="" width="55px" height="50px">
-<img align="center" src="./plus\Languages\typescript.png" alt="" width="30px" height="40px">
+<img align="center" src="./plus\Languages\typescript.png" alt="" width="38px" height="38px">
 <img align="center" src="./plus\Languages\html.png" alt="" width="36px" height="40px">
 <img align="center" src="./plus\Languages\css.png" alt="" width="36px" height="36px">
 <img align="center" src="./plus\Languages\gitg.png" alt="" width="40px" height="40px">
