@@ -65,11 +65,11 @@
 <div align="left">
 <details>
   <summary>More about me...</summary>
-  <p><h4>Fun facts: </h4> 
-  <h5>I also produce <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a></h5> 
+  <p display="flex"><h5>Fun facts: I also produce <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a></h5> 
   </p>
 </details>
 
+<br>
 
 ![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
 
