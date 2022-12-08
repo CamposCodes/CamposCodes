@@ -35,7 +35,7 @@
 
 <br>
 
-<img style="margin-bottom: 1em; margin-right: -1em" align="left" src="./plus/Main/tip1.png" alt="" width="58px" height="55px"> 
+<img style="margin-bottom: 1em" align="left" src="./plus/Main/tip1.png" alt="" width="58px" height="55px"> 
 <p style="margin-left: 5em">
   Actually i am studying I.T. in 
   <b>Universidade Federal de Juiz de Fora</b>
