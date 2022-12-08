@@ -62,7 +62,7 @@ Como chegar até mim <b>dev.camposgabriel@gmail.com</b></p>
 <br>
 
 <details>
-  <summary>Git Stats...</summary>
+  <summary>Git Stats...(Status Git)</summary>
 <br> 
 <div align="center">
   <a href="https://github.com/CamposCodes">
@@ -76,10 +76,10 @@ Como chegar até mim <b>dev.camposgabriel@gmail.com</b></p>
  
 <div align="left">
 <details>
-  <summary>More about me...</summary>
+  <summary>More about me...(Mais sobre mim)</summary>
   <p display="flex"><h5>Fun facts: I also produce <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a></h5> 
   </p>
-  <p display="flex"><h5>Fun facts: Eu produzo músicas <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a></h5> 
+  <p display="flex"><h5>Fatos Curiosos: Eu produzo músicas <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a></h5> 
   </p>
 </details>
 
