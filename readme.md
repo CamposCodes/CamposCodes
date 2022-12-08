@@ -36,7 +36,7 @@
 <br>
 
 <img align="left" src="./plus/Main/tip1.png" alt="" width="58px" height="55px"> 
-<p style="margin-top: -1em;margin-left: 5em">
+<p style="margin-left: 5em">
   Actually i am studying I.T. in 
   <b>Universidade Federal de Juiz de Fora</b>
 </p>
