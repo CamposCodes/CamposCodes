@@ -35,8 +35,8 @@
 <img align="center" src="./plus\Languages\git.png" alt="GitHub" width="60px" height="60px" title="GitHub">
 <img align="center" src="./plus\Languages\react.png" alt="React" width="60px" height="60px" title="React">
 <img align="center" src="./plus\Languages\reactN.png" alt="ReactNative" width="60px" height="60px" title="ReactNative">
-<img align="center" src="./plus\Languages\cpp.png" alt="C++" width="55px" height="55px" title="C++">
 <img align="center" src="./plus\Languages/nextjs.png" alt="Next.js" width="50px" height="55px" title="Next.js">
+<img align="center" src="./plus\Languages\cpp.png" alt="C++" width="55px" height="55px" title="C++">
 
 </div>
 
