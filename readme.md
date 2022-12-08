@@ -12,23 +12,20 @@
 
 <div>
   <img width="210px" height="150px" align="right" src="./plus/Main/top.png" alt="">
-  <h3 align="left" >
+  <divalign="left" >
     <span  style="font-size: 10px" align="left">
       EN-USA:
       </br>
     </span>
-    </br>
-    I am a I.T. student who is passionate about writing code, solving problems, and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.
-  </h3>
-  </br>
-  <h3 align="left" >
+    <h3>I am a I.T. student who is passionate about writing code, solving problems, and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.</h3>
+</div>
+</br>
+<div align="left">
     <span  style="font-size: 10px" align="left">
       PT-BR:
       </br>
     </span>
-
-    </br>
-    Eu sou um estudante de T.I. apaixonado por escrever códigos, resolver problemas e automatizar coisas, estou sempre em busca de melhorias e novos conhecimentos para construir melhores soluções através de aplicações.
+  <h3>Eu sou um estudante de T.I. apaixonado por escrever códigos, resolver problemas e automatizar coisas, estou sempre em busca de melhorias e novos conhecimentos para construir melhores soluções através de aplicações.</h3>
   </h3>
 </div>
 
