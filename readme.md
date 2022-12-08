@@ -79,6 +79,8 @@ Como chegar até mim <b>dev.camposgabriel@gmail.com</b></p>
   <summary>More about me...</summary>
   <p display="flex"><h5>Fun facts: I also produce <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a></h5> 
   </p>
+  <p display="flex"><h5>Fun facts: Eu produzo músicas <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a></h5> 
+  </p>
 </details>
 
 <br>
