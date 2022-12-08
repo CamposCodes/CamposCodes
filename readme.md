@@ -10,7 +10,7 @@
 
 <br>
 
-<div style="background: #FFFF; color: #000">
+<div>
   <img width="210px" height="150px" align="right" src="./plus/Main/top.png" alt="">
   <divalign="left" >
     <span  style="font-size: 10px" align="left">
