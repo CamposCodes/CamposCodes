@@ -42,8 +42,8 @@
 
 <div align="center">
 <h3>Connect with me: </h3>
-<a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus/Networks/ig.png" alt="" width="50px" height="50px"></a>
-<a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus/Networks/in.png" alt="" width="50px" height="50px"></a>
+<a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus/Networks/ig.png" alt="" width="60px" height="60px"></a>
+<a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus/Networks/in.png" alt="" width="60px" height="60px"></a>
 </div>
 
 
@@ -55,8 +55,8 @@
 <br> 
 <div align="center">
   <a href="https://github.com/CamposCodes">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CamposCodes&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CamposCodes&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 </details>
