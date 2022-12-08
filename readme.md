@@ -36,6 +36,7 @@
 <img align="center" src="./plus\Languages\react.png" alt="" width="50px" height="50px">
 <img align="center" src="./plus\Languages\reactN.png" alt="" width="50px" height="50px">
 <img align="center" src="./plus\Languages\cpp.png" alt="" width="45px" height="45px">
+<img align="center" src="./plus\Languages/nextjs.png" alt="" width="45px" height="45px">
 
 </div>
 
