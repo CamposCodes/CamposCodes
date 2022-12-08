@@ -27,16 +27,16 @@
 
 <div align="center">
 <h3> Some of my skills are: </h3>
-<img align="center" src="./plus\Languages\jss.png" alt="" width="55px" height="50px">
-<img align="center" src="./plus\Languages\typescript.png" alt="" width="38px" height="38px">
-<img align="center" src="./plus\Languages\html.png" alt="" width="36px" height="40px">
-<img align="center" src="./plus\Languages\css.png" alt="" width="36px" height="36px">
-<img align="center" src="./plus\Languages\gitg.png" alt="" width="40px" height="40px">
-<img align="center" src="./plus\Languages\git.png" alt="" width="50px" height="50px">
-<img align="center" src="./plus\Languages\react.png" alt="" width="50px" height="50px">
-<img align="center" src="./plus\Languages\reactN.png" alt="" width="50px" height="50px">
-<img align="center" src="./plus\Languages\cpp.png" alt="" width="45px" height="45px">
-<img align="center" src="./plus\Languages/nextjs.png" alt="" width="40px" height="45px">
+<img align="center" src="./plus\Languages\jss.png" alt="JavaScript" width="55px" height="50px" title="JavaScript">
+<img align="center" src="./plus\Languages\typescript.png" alt="TypeScript" width="38px" height="38px" title="TypeScript">
+<img align="center" src="./plus\Languages\html.png" alt="HTML" width="36px" height="40px" title="HTML">
+<img align="center" src="./plus\Languages\css.png" alt="CSS" width="36px" height="36px" title="CSS">
+<img align="center" src="./plus\Languages\gitg.png" alt="Git" width="40px" height="40px" title="Git">
+<img align="center" src="./plus\Languages\git.png" alt="GitHub" width="50px" height="50px" title="GitHub">
+<img align="center" src="./plus\Languages\react.png" alt="React" width="50px" height="50px" title="React">
+<img align="center" src="./plus\Languages\reactN.png" alt="ReactNative" width="50px" height="50px" title="ReactNative">
+<img align="center" src="./plus\Languages\cpp.png" alt="C++" width="45px" height="45px" title="C++">
+<img align="center" src="./plus\Languages/nextjs.png" alt="Next.js" width="40px" height="45px" title="Next.js">
 
 </div>
 
