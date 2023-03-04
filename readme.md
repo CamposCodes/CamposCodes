@@ -114,7 +114,7 @@
 <br>
 
 <div align="center">
-    <h3>Git Stats</h3>
+    <h3 >Git Stats</h3>
     <h4>Estatísticas Git</h4>
     <br> 
     <div align="center">
