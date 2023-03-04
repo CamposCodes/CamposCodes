@@ -45,7 +45,6 @@
   <b>Universidade Federal de Juiz de Fora</b>
 </p>
 
-
 <br>
 
 <img align="left" src="./plus/Main/tip2.png" alt="" width="58px" height="55px">
@@ -90,7 +89,7 @@
 
 <div align="center">
   <h3> Some of my skills are: </h3>
-  <h5> Algumas das minhas habilidades são: </h5>
+  <h4> Algumas das minhas habilidades são: </h4>
   <img style="cursor: pointer;" align="center" src="./plus\Languages\jss.png" alt="JavaScript" width="65px" height="60px" title="JavaScript">
   <img style="cursor: pointer;" align="center" src="./plus\Languages\typescript.png" alt="TypeScript" width="48px" height="48px" title="TypeScript">
   <img style="cursor: pointer;" align="center" src="./plus\Languages\html.png" alt="HTML" width="46px" height="50px" title="HTML">
@@ -103,17 +102,20 @@
   <img style="cursor: pointer;" align="center" src="./plus\Languages\cpp.png" alt="C++" width="55px" height="55px" title="C++">
 </div>
 
+<br>
+
 <div align="center">
-  <h3>Connect with me: </h3>
-  <h5>Conecte-se comigo: </h5>
+  <h3 >Connect with me: </h3>
+  <h4>Conecte-se comigo: </h4>
   <a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus/Networks/ig.png" alt="" width="60px" height="60px"></a>
   <a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus/Networks/in.png" alt="" width="60px" height="60px"></a>
 </div>
 
 <br>
 
-<details>
-    <summary>Git Stats...(Status Git)</summary>
+<div align="center">
+    <h3>Git Stats</h3>
+    <h4>Estatísticas Git</h4>
     <br> 
     <div align="center">
     <a href="https://github.com/CamposCodes">
@@ -121,7 +123,7 @@
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&theme=dark&hide_border=false&&layout=compact"/>
     </a>
     </div>
-</details>
+</div>
 
 <br>
  
