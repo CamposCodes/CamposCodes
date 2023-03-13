@@ -136,8 +136,8 @@
       </h5> 
     </p>
     <p display="flex">
-      <h5>Fatos Curiosos: Eu produzo músicas 
-        <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a>
+      <h5>Fatos Curiosos: Eu produzo
+        <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > músicas </a>
       </h5> 
     </p>
   </details>
