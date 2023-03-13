@@ -145,5 +145,4 @@
 
 <br>
 
-
 ![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
