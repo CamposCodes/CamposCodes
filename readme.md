@@ -145,4 +145,6 @@
 
 <br>
 
+<h3 style="color: red;">Snake Commits</h3>
+
 ![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
