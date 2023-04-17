@@ -127,8 +127,9 @@
     <h3>GitHub Streaks</h3>
     <img align="center" src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
+<br>
 
-<h3 align="center">Snake Commits</h3>
+<h3 style="margin-bottom: 5px;" align="center">Snake Commits</h3>
 
 ![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
 
