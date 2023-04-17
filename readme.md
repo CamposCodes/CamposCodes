@@ -1,5 +1,3 @@
-<div style="background:#0D1117">
-
     <h2 align="left">Hi you there...
     <img align="center" width="50px" height="50px" src="./plus/Main/hello.gif" alt="">
     <br>
@@ -160,5 +158,3 @@
     </details>
     <img align="right" src="https://visitcount.itsvg.in/api?id=CamposCodes&color=12"/>
     </div>
-
-</div>
