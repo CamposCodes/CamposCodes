@@ -129,14 +129,11 @@
     <img align="center" src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
-
 <br>
 
 <h3 align="center">Snake Commits</h3>
 
 ![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
-
-<br>
 
 <div align="center">
     <h3>GitHub Trophies</h3>
@@ -145,6 +142,8 @@
     <img style="border: none" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&hide_border=true&margin-w=10&theme=tokyonight&no-frame=false&no-bg=true"/>
     </div>
 </div>
+
+<br>
 
 <div>
   <details  align="left">
