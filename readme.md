@@ -157,3 +157,7 @@
 <br>
 
 ![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+<img align="right" src="https://visitcount.itsvg.in/api?id=CamposCodes&color=12"/>
