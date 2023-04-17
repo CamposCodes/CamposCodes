@@ -135,7 +135,7 @@
     <h3 >GitHub Trophies</h3>
     <br> 
     <div align="center">
-    <img height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&theme=tokyonightt&hide_border=true&no-frame=false&no-bg=false&margin-w=4"/>
+    <img height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&theme=tokyonightt&hide_border=true&border_radius=25&no-frame=false&no-bg=false&margin-w=4"/>
     </div>
 </div>
 
