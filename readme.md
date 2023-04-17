@@ -127,6 +127,17 @@
 
 <br>
  
+<div align="center">
+    <h3 >GitHub Trophies</h3>
+    <h4 style="margin-top: 0px; margin-bottom: 1rem;">Troféus GitHub</h4>
+    <br> 
+    <div align="center">
+    <img style="margin-right: 1rem" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&theme=dark&hide_border=false&&layout=compactno-frame=false&no-bg=false&margin-w=4"/>
+    </div>
+</div>
+
+<br>
+
 <div align="left">
   <details>
     <summary>More about me...(Mais sobre mim)</summary>
