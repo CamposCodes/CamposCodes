@@ -12,7 +12,7 @@
 
 <div>
   <img width="210px" height="150px" align="right" src="./plus/Main/top.png" alt="">
-  <divalign="left" >
+  <div align="left" >
     <span  style="font-size: 10px" align="left">
       EN-USA:
       </br>
@@ -113,7 +113,6 @@
 
 <div align="center">
     <h3>Git Stats</h3>
-    <br> 
     <div align="center">
     <a href="https://github.com/CamposCodes">
       <img style="margin-right: 1rem" height="150em" src="https://github-readme-stats.vercel.app/api?username=CamposCodes&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&show_owner=true"/>
