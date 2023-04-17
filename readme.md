@@ -116,8 +116,8 @@
     <br> 
     <div align="center">
     <a href="https://github.com/CamposCodes">
-      <img style="margin-right: 1rem" height="150em" src="https://github-readme-stats.vercel.app/api?username=CamposCodes&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&border_radius=25&show_owner=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&theme=tokyonight&hide_border=false&border_radius=25&layout=compact"/>
+      <img style="margin-right: 1rem" height="150em" src="https://github-readme-stats.vercel.app/api?username=CamposCodes&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&show_owner=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&layout=compact"/>
     </a>
     </div>
 </div>
@@ -133,7 +133,7 @@
     <h3>GitHub Trophies</h3>
     <br> 
     <div align="center">
-    <img style="margin-right: 1rem" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+    <img style="margin-right: 1rem" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&theme=tokyonight&hide_border=true&no-frame=false&no-bg=false&margin-w=4"/>
     </div>
 </div>
 
