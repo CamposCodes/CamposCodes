@@ -134,6 +134,14 @@
 
 <br>
 
+<div align="center">
+    <h3 >GitHub Streaks</h3>
+    <br> 
+    <div align="center">
+    <img style="margin-right: 1rem" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=CamposCodes&theme=tokyonight&date_format=j%20M%5B%20Y%5D)/>
+    </div>
+</div>
+
 <br>
 
 <h3 align="center">Snake Commits</h3>
