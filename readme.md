@@ -125,6 +125,13 @@
 <br>
  
 <div align="center">
+    <h3 align="center">GitHub Streaks</h3>
+    <img  align="center" style="margin-right: 1rem" height="150em" src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+
+<br>
+
+<div align="center">
     <h3 >GitHub Trophies</h3>
     <br> 
     <div align="center">
@@ -134,16 +141,7 @@
 
 <br>
 
-<div align="center">
-    <h3 align="center">GitHub Streaks</h3>
-    <img  align="center" style="margin-right: 1rem" height="150em" src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-
-<br>
-
 <h3 align="center">Snake Commits</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CamposCodes)](https://git.io/streak-stats)
 
 <br>
 
