@@ -150,11 +150,6 @@
         <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a>
       </h5> 
     </p>
-    <p display="flex">
-      <h5>Fatos Curiosos: Eu produzo músicas 
-        <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a>
-      </h5> 
-    </p>
   </details>
   <img align="right" src="https://visitcount.itsvg.in/api?id=CamposCodes&color=12"/>
 </div>
