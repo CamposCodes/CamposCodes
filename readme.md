@@ -116,8 +116,8 @@
     <br> 
     <div align="center">
     <a href="https://github.com/CamposCodes">
-      <img style="margin-right: 1rem" height="150em" src="https://github-readme-stats.vercel.app/api?username=CamposCodes&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&theme=tokyonight&hide_border=false&&layout=compact"/>
+      <img style="margin-right: 1rem" height="150em" src="https://github-readme-stats.vercel.app/api?username=CamposCodes&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&show_owner=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&layout=compact"/>
     </a>
     </div>
 </div>
@@ -128,25 +128,22 @@
     <h3 >GitHub Trophies</h3>
     <br> 
     <div align="center">
-    <img style="margin-right: 1rem" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+    <img height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&theme=tokyonightt&hide_border=true&no-frame=false&no-bg=false&margin-w=4"/>
     </div>
 </div>
 
 <br>
 
 <div align="center">
-    <h3 >GitHub Streaks</h3>
-    <br> 
-    <div align="center">
-    <img style="margin-right: 1rem" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=CamposCodes&theme=tokyonight&date_format=j%20M%5B%20Y%5D)/>
-    </div>
+    <h3 align="center">GitHub Streaks</h3>
+    <img  align="center" style="margin-right: 1rem" height="150em" src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 <br>
 
 <h3 align="center">Snake Commits</h3>
 
-![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CamposCodes)](https://git.io/streak-stats)
 
 <br>
 
