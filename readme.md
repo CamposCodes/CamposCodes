@@ -88,8 +88,7 @@
 <br>
 
 <div align="center">
-  <h3> Some of my skills are: </h3>
-  <h4 style="margin-top: -0.5em; margin-bottom: 0.5em;"> Algumas das minhas habilidades são: </h4>
+  <h3> Some of my skills are </h3>
   <img style="cursor: pointer;" align="center" src="./plus\Languages\jss.png" alt="JavaScript" width="65px" height="60px" title="JavaScript">
   <img style="cursor: pointer;" align="center" src="./plus\Languages\typescript.png" alt="TypeScript" width="48px" height="48px" title="TypeScript">
   <img style="cursor: pointer;" align="center" src="./plus\Languages\html.png" alt="HTML" width="46px" height="50px" title="HTML">
@@ -105,8 +104,7 @@
 <br>
 
 <div align="center">
-  <h3 >Connect with me: </h3>
-  <h4 style="margin-top: -0.5em; margin-bottom: 0.5em;">Conecte-se comigo: </h4>
+  <h3 >Connect with me</h3>
   <a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus/Networks/ig.png" alt="" width="60px" height="60px"></a>
   <a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus/Networks/in.png" alt="" width="60px" height="60px"></a>
 </div>
@@ -115,7 +113,6 @@
 
 <div align="center">
     <h3 >Git Stats</h3>
-    <h4 style="margin-top: -0.5em; margin-bottom: 0.5em;">Estatísticas Git</h4>
     <br> 
     <div align="center">
     <a href="https://github.com/CamposCodes">
@@ -129,7 +126,6 @@
  
 <div align="center">
     <h3 >GitHub Trophies</h3>
-    <h4 style="margin-top: -0.5em; margin-bottom: 0.5em;">Troféus GitHub</h4>
     <br> 
     <div align="center">
     <img style="margin-right: 1rem" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
