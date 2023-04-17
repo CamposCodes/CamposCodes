@@ -138,8 +138,16 @@
 
 <br>
 
-<div align="left">
-  <details>
+<br>
+
+<h3 align="center">Snake Commits</h3>
+
+![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+<div>
+  <details  align="left">
     <summary>More about me...(Mais sobre mim)</summary>
     <p display="flex">
       <h5>Fun facts: I also produce 
@@ -152,12 +160,5 @@
       </h5> 
     </p>
   </details>
+  <img align="right" src="https://visitcount.itsvg.in/api?id=CamposCodes&color=12"/>
 </div>
-
-<br>
-
-![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
-<img align="right" src="https://visitcount.itsvg.in/api?id=CamposCodes&color=12"/>
