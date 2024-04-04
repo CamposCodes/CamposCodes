@@ -89,15 +89,14 @@
 
 <div align="center">
   <h3> Some of my skills are </h3>
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\jss.png" alt="JavaScript" width="65px" height="60px" title="JavaScript">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\typescript.png" alt="TypeScript" width="48px" height="48px" title="TypeScript">
+  <img style="cursor: pointer;" align="center" src="./plus\Languages/nextjs.png" alt="Next.js" width="60px" height="65px" title="Next.js">
+  <img style="cursor: pointer;" align="center" src="./plus\Languages\reactN.png" alt="React" width="70px" height="70px" title="React">
+  <img style="cursor: pointer;" align="center" src="./plus\Languages\js.png" alt="JavaScript" width="50px" height="50px" title="JavaScript">
+  <img style="cursor: pointer;" align="center" src="./plus\Languages\typescript.png" alt="TypeScript" width="50px" height="50px" title="TypeScript">
   <img style="cursor: pointer;" align="center" src="./plus\Languages\html.png" alt="HTML" width="46px" height="50px" title="HTML">
   <img style="cursor: pointer;" align="center" src="./plus\Languages\css.png" alt="CSS" width="46px" height="46px" title="CSS">
   <img style="cursor: pointer;" align="center" src="./plus\Languages\gitg.png" alt="Git" width="50px" height="50px" title="Git">
   <img style="cursor: pointer;" align="center" src="./plus\Languages\git.png" alt="GitHub" width="60px" height="60px" title="GitHub">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\react.png" alt="React" width="60px" height="60px" title="React">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\reactN.png" alt="ReactNative" width="60px" height="60px" title="ReactNative">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages/nextjs.png" alt="Next.js" width="50px" height="55px" title="Next.js">
   <img style="cursor: pointer;" align="center" src="./plus\Languages\cpp.png" alt="C++" width="55px" height="55px" title="C++">
 </div>
 
