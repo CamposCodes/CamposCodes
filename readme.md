@@ -100,10 +100,10 @@
   <p style="font-size: 12px;">(Connect with me)</p>
   
   <a href="https://instagram.com/dev.camposg" target="_blank">
-    <img align="center" src="./plus/Networks/ig.png" alt="Instagram" width="70px" height="70px" style="margin-right: 1em;">
+    <img align="center" src="./plus/Networks/instagram.svg" alt="Instagram" width="70px" height="70px" style="margin-right: 1em;">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank">
-    <img align="center" src="./plus/Networks/in.png" alt="LinkedIn" width="70px" height="70px" style="margin-right: 1em;">
+    <img align="center" src="./plus/Networks/linkedin.svg" alt="LinkedIn" width="70px" height="70px" style="margin-right: 1em;">
   </a>
 </div>
 
