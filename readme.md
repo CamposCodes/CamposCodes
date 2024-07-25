@@ -63,17 +63,17 @@
 <div align="center">
   <h3 style="margin-bottom: 0;">Algumas das minhas habilidades</h3>
   <p style="font-size: 12px;">(Some of my skills are)</p>  
-<img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/nextjs.svg" alt="Next.js" width="55px" height="55px" title="Next.js">
-  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/reactjs.svg" alt="React" width="55px" height="55px" title="React">
-  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/javascript.svg" alt="JavaScript" width="55px" height="55px" title="JavaScript">
-  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/typescript.svg" alt="TypeScript" width="55px" height="55px" title="TypeScript">
-  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/html.svg" alt="HTML" width="55px" height="55px" title="HTML">
-  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/css.svg" alt="CSS" width="55px" height="55px" title="CSS">
-  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/bootstrap.svg" alt="Bootstrap" width="55px" height="55px" title="Bootstrap">
-  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/git.svg" alt="Git" width="55px" height="55px" title="Git">
-  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/github.svg" alt="GitHub" width="55px" height="55px" title="GitHub">
-  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/node.svg" alt="Node.js" width="55px" height="55px" title="Node.js">
-  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/Languages/vuejs.svg" alt="Vue.js" width="55px" height="55px" title="Vue.js">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/git.svg" alt="Git" width="50px" height="50px" title="Git">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/github.svg" alt="GitHub" width="50px" height="50px" title="GitHub">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/html.svg" alt="HTML" width="60px" height="60px" title="HTML">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/css.svg" alt="CSS" width="55px" height="55px" title="CSS">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/bootstrap.svg" alt="Bootstrap" width="50px" height="50px" title="Bootstrap">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/javascript.svg" alt="JavaScript" width="40px" height="50px" title="JavaScript">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/typescript.svg" alt="TypeScript" width="40px" height="50px" title="TypeScript">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/reactjs.svg" alt="React" width="50px" height="50px" title="React">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/nextjs.svg" alt="Next.js" width="50px" height="50px" title="Next.js">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/vuejs.svg" alt="Vue.js" width="50px" height="50px" title="Vue.js">
+  <img style="cursor: pointer; margin: 0.5em;" align="center" src="./plus/Languages/node.svg" alt="Node.js" width="50px" height="50px" title="Node.js">
 </div>
 <br>
 <!-- Connect Section -->
