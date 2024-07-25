@@ -13,14 +13,14 @@
   <img width="210px" height="150px" align="right" src="./plus/Main/top.png" alt="Profile Top" style="margin-right: 1em;">
   <div align="left">
     <span style="font-size: 8px;">PT-BR:</span>
-    <h3 style="font-size: 14px; margin-top: 0; margin-bottom: 0;">
+    <h3 style="margin-top: 0; margin-bottom: 0;">
       Sou Gabriel Campos Lima Alves, um desenvolvedor web apaixonado por transformar desafios em soluções criativas. Atualmente, sou graduando em Sistemas de Informação e continuo a expandir meus conhecimentos, acadêmicos e práticos. Abordo projetos desafiadores com dedicação e eficiência, organizo minhas tarefas com precisão e valorizo a colaboração com outros desenvolvedores. Sempre aberto à comunicação, entrego resultados de qualidade. Se você busca um profissional comprometido e com vontade de aprender, sou a escolha certa para agregar valor à sua equipe. Vamos conversar e começar a transformar suas ideias em realidade!
     </h3>
   </div>
   <br>
   <div align="left">
     <span style="font-size: 8px;">EN-USA:</span>
-    <h4 style="font-size: 14px; margin-top: 0; font-weight: 200;">
+    <h4 style="margin-top: 0; font-weight: 200;">
       I’m Gabriel Campos Lima Alves, a web developer passionate about turning challenges into creative solutions. Currently, I’m pursuing a degree in Information Systems and continuously expanding my knowledge, both academic and practical. I tackle challenging projects with dedication and efficiency, organize my tasks precisely, and value collaboration with other developers. Always open to communication, I deliver high-quality results. If you’re looking for a committed professional with a strong desire to learn, I’m the right choice to add value to your team. Let’s talk and start turning your ideas into reality!
     </h4>
   </div>
@@ -33,7 +33,7 @@
 <br>
 
 <!-- Sections with Icons and Descriptions -->
-<div>
+<div style="margin: 0;">
   <img align="left" src="./plus/Main/tip1.png" alt="Universidade" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em;">Atualmente estudando <b>Sistemas de Informação</b> na <i>Universidade Federal de Juiz de Fora</i></p>
   <p style="margin-left: 3em; margin-top: -10px; font-size: 12px; font-weight: 200;">
