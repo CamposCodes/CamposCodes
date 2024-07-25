@@ -1,32 +1,32 @@
-<h2 align="left">Hi you there... 
-  <img align="center" width="50px" height="50px" src="./plus/Main/hello.gif" alt="">
+<!-- Header Section -->
+<h2 align="left">Olá, você aí...
+  <img align="center" width="50px" height="50px" src="./plus/Main/hello.gif" alt="Olá">
   <br>
-  <p align="center">I'm 
-    <i>
-      Gabriel Campos Lima Alves
-    </i>
-  </p>
+  <p align="center">Eu sou <i>Gabriel Campos Lima Alves</i></p>
+  <p align="center" style="font-size: 12px;">(I’m Gabriel Campos Lima Alves)</p>
 </h2>
 
 <br>
 
+<!-- About Me Section -->
 <div>
-  <img width="210px" height="150px" align="right" src="./plus/Main/top.png" alt="">
-  <div align="left" >
-    <span  style="font-size: 10px" align="left">
-      EN-USA:
-      </br>
-    </span>
-    <h3>I am a I.T. student who is passionate about writing code, solving problems, and automating stuff, and i'm always looking for improvement and new knowledge to build better solutions through apps.</h3>
-</div>
-</br>
-<div align="left">
-    <span  style="font-size: 10px" align="left">
-      PT-BR:
-      </br>
-    </span>
-  <h3>Eu sou um estudante de T.I. apaixonado por escrever códigos, resolver problemas e automatizar coisas, estou sempre em busca de melhorias e novos conhecimentos para construir melhores soluções através de aplicações.</h3>
-  </h3>
+  <img width="210px" height="150px" align="right" src="./plus/Main/top.png" alt="Profile Top" style="margin-right: 1em;">
+  
+  <div align="left">
+    <span style="font-size: 8px;">PT-BR:</span>
+    <h4 style="font-size: 14px; margin-top: 0; margin-bottom: 0;">
+      Sou Gabriel Campos Lima Alves, um desenvolvedor web apaixonado por transformar desafios em soluções criativas. Atualmente, sou graduando em Sistemas de Informação e continuo a expandir meus conhecimentos, acadêmicos e práticos. Abordo projetos desafiadores com dedicação e eficiência, organizo minhas tarefas com precisão e valorizo a colaboração com outros desenvolvedores. Sempre aberto à comunicação, entrego resultados de qualidade. Se você busca um profissional comprometido e com vontade de aprender, sou a escolha certa para agregar valor à sua equipe. Vamos conversar e começar a transformar suas ideias em realidade!
+    </h4>
+  </div>
+  
+  <br>
+  
+  <div align="left">
+    <span style="font-size: 8px;">EN-USA:</span>
+    <h4 style="font-size: 14px; margin-top: 0; font-weight: normal;">
+      I’m Gabriel Campos Lima Alves, a web developer passionate about turning challenges into creative solutions. Currently, I’m pursuing a degree in Information Systems and continuously expanding my knowledge, both academic and practical. I tackle challenging projects with dedication and efficiency, organize my tasks precisely, and value collaboration with other developers. Always open to communication, I deliver high-quality results. If you’re looking for a committed professional with a strong desire to learn, I’m the right choice to add value to your team. Let’s talk and start turning your ideas into reality!
+    </h4>
+  </div>
 </div>
 
 <br>
@@ -35,122 +35,101 @@
 
 <br>
 
-<img align="left" src="./plus/Main/tip1.png" alt="" width="58px" height="55px"> 
-<p style="margin-left: 5em">
-  Actually i am studying I.T. in 
-  <b>Universidade Federal de Juiz de Fora</b>
-</p>
-<p style="margin-left: 5em;margin-top: -10px">
-  Atualmente estou estudando T.I. na 
-  <b>Universidade Federal de Juiz de Fora</b>
-</p>
-
-<br>
-
-<img align="left" src="./plus/Main/tip2.png" alt="" width="58px" height="55px">
-<p style="margin-left: 5em" align="left">
-  Looking for the
-  <b>first professional experience</b> as a <b>Front-end Developer</b>
-</p>
-<p style="margin-top: -10px; margin-left: 5em">
-  Em busca da 
-  <b>primeira experiência profissional</b> 
-  como 
-  <b>Front-end Developer</b>
-</p>
-
-<br>
-
-<img align="left" src="./plus/Main/tip3.png" alt="" width="58px" height="55px">
-<p style="margin-left: 5em">
-  I’m currently learning 
-  <b>Frameworks</b>
-  (React - React Native)
-</p>
-<p style="margin-top: -10px;margin-left: 5em">
-  No momento estou aprendendo
-  <b>Frameworks</b>
-  (React - React Native)
-</p>
-
-<br>
-
-<img align="left" src="./plus/Main/tip4.png" alt="" width="58px" height="55px">
-<p style="margin-left: 5em"> 
-  How to reach me 
-  <b>dev.camposgabriel@gmail.com</b>
-</p>
-<p style="margin-top: -10px;margin-left: 5em">
-  Como chegar até mim 
-  <b>dev.camposgabriel@gmail.com</b>
-</p>
-
-<br>
-
-<div align="center">
-  <h3> Some of my skills are </h3>
-  <img style="cursor: pointer;" align="center" src="./plus\Languages/nextjs.png" alt="Next.js" width="60px" height="65px" title="Next.js">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\reactN.png" alt="React" width="70px" height="70px" title="React">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\js.png" alt="JavaScript" width="50px" height="50px" title="JavaScript">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\typescript.png" alt="TypeScript" width="50px" height="50px" title="TypeScript">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\html.png" alt="HTML" width="46px" height="50px" title="HTML">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\css.png" alt="CSS" width="46px" height="46px" title="CSS">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\gitg.png" alt="Git" width="50px" height="50px" title="Git">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\git.png" alt="GitHub" width="60px" height="60px" title="GitHub">
-  <img style="cursor: pointer;" align="center" src="./plus\Languages\cpp.png" alt="C++" width="55px" height="55px" title="C++">
+<!-- Sections with Icons and Descriptions -->
+<div>
+  <img align="left" src="./plus/Main/tip1.png" alt="Universidade" width="68px" height="65px" style="margin-right: 1em;">
+  <p style="margin-left: 3em;">Atualmente estudando <b>Sistemas de Informação</b> na <i>Universidade Federal de Juiz de Fora</i></p>
+  <p style="margin-left: 3em; margin-top: -10px; font-size: 12px;">
+    (Currently studying Information Systems at <i>Universidade Federal de Juiz de Fora</i>)
+  </p>
 </div>
-
-<br>
-
-<div align="center">
-  <h3 >Connect with me</h3>
-  <a align="center" href="https://instagram.com/dev.camposg" target="_blank"><img align="center" src="./plus/Networks/ig.png" alt="" width="60px" height="60px"></a>
-  <a align="center" href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><img align="center" src="./plus/Networks/in.png" alt="" width="60px" height="60px"></a>
-</div>
-
-<br>
-
-<div align="center">
-    <h3>Git Stats</h3>
-    <div align="center">
-    <a href="https://github.com/CamposCodes">
-      <img style="margin-right: 1rem" height="150em" src="https://github-readme-stats.vercel.app/api?username=CamposCodes&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&show_owner=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&layout=compact"/>
-    </a>
-    </div>
-</div>
-
-<br>
-
-<div align="center">
-    <h3>GitHub Streaks</h3>
-    <img align="center" src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-
-<br>
-
-<div align="center">
-    <h3>GitHub Trophies</h3>
-    <div align="center">
-    <img style="border: none" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&hide_border=true&margin-w=10&theme=tokyonight&no-frame=false&no-bg=true"/>
-    </div>
-</div>
-
-<h3 style="margin-bottom: 5px;" align="center">Snake Commits</h3>
-
-![snake gif](https://github.com/CamposCodes/CamposCodes/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
 <div>
-  <details  align="left">
-    <summary>More about me...(Mais sobre mim)</summary>
-    <p display="flex">
-      <h5>Fun facts: I also produce 
-        <a href="https://www.youtube.com/channel/UCg8K-3VphWMQ4NsOvlYjF9g" target="_blank" > songs </a>
-      </h5> 
-    </p>
-  </details>
+  <img align="left" src="./plus/Main/tip2.png" alt="Experiência" width="68px" height="65px" style="margin-right: 1em;">
+  <p style="margin-left: 3em;">Em busca de oportunidade profissional como <b>Desenvolvedor Web</b></p>
+  <p style="margin-left: 3em; margin-top: -10px; font-size: 12px;">
+    (Looking for a professional opportunity as a <i>Web Developer</i>)
+  </p>
 </div>
 
+<br>
+
+<div>
+  <img align="left" src="./plus/Main/tip3.png" alt="Aprendizado" width="68px" height="65px" style="margin-right: 1em;">
+  <p style="margin-left: 3em;">No momento estou estudando <b>Node.js</b> e <b>Vue.js</b></p>
+  <p style="margin-left: 3em; margin-top: -10px; font-size: 12px;">
+    (Currently studying <i>Node.js</i> and <i>Vue.js</i>)
+  </p>
+</div>
+
+<br>
+
+<div>
+  <img align="left" src="./plus/Main/tip4.png" alt="Contato" width="68px" height="65px" style="margin-right: 1em;">
+  <p style="margin-left: 3em;">Como chegar até mim: <b>dev.camposgabriel@gmail.com</b></p>
+  <p style="margin-left: 3em; margin-top: -10px; font-size: 12px;">
+    (How to reach me: <i>dev.camposgabriel@gmail.com</i>)
+  </p>
+</div>
+
+<br>
+
+<!-- Skills Section -->
+<div align="center">
+  <h3 style="margin-bottom: 0;">Algumas das minhas habilidades</h3>
+  <p style="font-size: 12px;">(Some of my skills are)</p>
+  
+<img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/nextjs.svg" alt="Next.js" width="55px" height="55px" title="Next.js">
+  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/reactjs.svg" alt="React" width="55px" height="55px" title="React">
+  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/javascript.svg" alt="JavaScript" width="55px" height="55px" title="JavaScript">
+  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/typescript.svg" alt="TypeScript" width="55px" height="55px" title="TypeScript">
+  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/html.svg" alt="HTML" width="55px" height="55px" title="HTML">
+  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/css.svg" alt="CSS" width="55px" height="55px" title="CSS">
+  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/bootstrap.svg" alt="Bootstrap" width="55px" height="55px" title="Bootstrap">
+  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/git.svg" alt="Git" width="55px" height="55px" title="Git">
+  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/github.svg" alt="GitHub" width="55px" height="55px" title="GitHub">
+  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/node.svg" alt="Node.js" width="55px" height="55px" title="Node.js">
+  <img style="cursor: pointer; margin: 0.5em; filter: brightness(0) saturate(100%) invert(60%) sepia(30%) saturate(3000%) hue-rotate(200deg) brightness(100%) contrast(90%);" align="center" src="./plus/languages/vuejs.svg" alt="Vue.js" width="55px" height="55px" title="Vue.js">
+</div>
+
+<br>
+
+<!-- Connect Section -->
+<div align="center">
+  <h3 style="margin-bottom: 0;">Conecte-se comigo</h3>
+  <p style="font-size: 12px;">(Connect with me)</p>
+  
+  <a href="https://instagram.com/dev.camposg" target="_blank">
+    <img align="center" src="./plus/Networks/ig.png" alt="Instagram" width="70px" height="70px" style="margin-right: 1em;">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank">
+    <img align="center" src="./plus/Networks/in.png" alt="LinkedIn" width="70px" height="70px" style="margin-right: 1em;">
+  </a>
+</div>
+
+<br>
+
+<!-- Stats Section -->
+<div align="center">
+  <h3 style="margin-bottom: 0;">Linguagens Mais Usadas</h3>
+  <p style="font-size: 12px;">(Most Used Languages)</p>
+  
+  <div style="display: flex; justify-content: center; gap: 1em;">
+    <img src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" width="400px" height="160px" style="border-radius: 2em;" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true" width="400px" height="160px" style="border-radius: 2em;" alt="Most Used Languages"/>
+  </div>
+</div>
+
+<br>
+
+<!-- Trophies Section -->
+<div align="center">
+  <h3 style="margin-bottom: 0;">Troféus do GitHub</h3>
+  <p style="font-size: 12px;">(GitHub Trophies)</p>
+  <img style="border: none" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&hide_border=true&margin-w=10&theme=tokyonight&no-frame=false&no-bg=true"/>
+</div>
+
+<!-- Visitor Count -->
 <img align="right" src="https://visitcount.itsvg.in/api?id=CamposCodes&color=12"/>
