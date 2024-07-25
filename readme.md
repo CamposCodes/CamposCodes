@@ -36,7 +36,7 @@
 <div style="margin: 0;">
   <img align="left" src="./plus/Main/tip1.png" alt="Universidade" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em;">Atualmente estudando <b>Sistemas de Informação</b> na <i>Universidade Federal de Juiz de Fora</i></p>
-  <p style="margin-left: 3em; margin-top: -10px; font-size: 12px; font-weight: 200; margin-top: -8px;">
+  <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200; margin-top: -8px;">
     (Currently studying Information Systems at <i>Universidade Federal de Juiz de Fora</i>)
   </p>
 </div>
@@ -46,7 +46,7 @@
 <div>
   <img align="left" src="./plus/Main/tip2.png" alt="Experiência" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em;">Em busca de oportunidade profissional como <b>Desenvolvedor Web</b></p>
-  <p style="margin-left: 3em; margin-top: -10px; font-size: 12px; font-weight: 200; margin-top: -8px;">
+  <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200; margin-top: -8px;">
     (Looking for a professional opportunity as a <i>Web Developer</i>)
   </p>
 </div>
@@ -56,7 +56,7 @@
 <div>
   <img align="left" src="./plus/Main/tip3.png" alt="Aprendizado" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em;">No momento estou estudando <b>Node.js</b> e <b>Vue.js</b></p>
-  <p style="margin-left: 3em; margin-top: -10px; font-size: 12px; font-weight: 200; margin-top: -8px;">
+  <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200; margin-top: -8px;">
     (Currently studying <i>Node.js</i> and <i>Vue.js</i>)
   </p>
 </div>
@@ -66,7 +66,7 @@
 <div>
   <img align="left" src="./plus/Main/tip4.png" alt="Contato" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em;">Como chegar até mim: <b>dev.camposgabriel@gmail.com</b></p>
-  <p style="margin-left: 3em; margin-top: -10px; font-size: 12px; font-weight: 200; margin-top: -8px;">
+  <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200; margin-top: -8px;">
     (How to reach me: <i>dev.camposgabriel@gmail.com</i>)
   </p>
 </div>
@@ -76,7 +76,7 @@
 <!-- Skills Section -->
 <div align="center">
   <h3 style="margin-bottom: 0;">Algumas das minhas habilidades</h3>
-  <p style="font-size: 12px; font-weight: 200; margin-top: -10px;">(Some of my skills are)</p>  
+  <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(Some of my skills are)</p>  
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/git.svg" alt="Git" width="50px" height="50px" title="Git">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/github.svg" alt="GitHub" width="50px" height="50px" title="GitHub">
@@ -97,7 +97,7 @@
 <!-- Connect Section -->
 <div align="center">
   <h3 style="margin-bottom: 0;">Conecte-se comigo</h3>
-  <p style="font-size: 12px; font-weight: 200; margin-top: -10px;">(Connect with me)</p>
+  <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(Connect with me)</p>
   
   <a href="https://instagram.com/dev.camposg" target="_blank">
     <img align="center" src="./plus/Networks/instagram.svg" alt="Instagram" width="65px" height="75px" style="margin-right: 1em;">
@@ -112,7 +112,7 @@
 <!-- Stats Section -->
 <div align="center">
   <h3 style="margin-bottom: 0;">Linguagens Mais Usadas</h3>
-  <p style="font-size: 12px; font-weight: 200; margin-top: -10px;">(Most Used Languages)</p>
+  <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(Most Used Languages)</p>
   
   <div style="display: flex; justify-content: center; gap: 1em;">
     <img src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" width="400px" height="160px" style="border-radius: 2em;" alt="GitHub Streak Stats"/>
@@ -125,7 +125,7 @@
 <!-- Trophies Section -->
 <div align="center">
   <h3 style="margin-bottom: 0;">Troféus do GitHub</h3>
-  <p style="font-size: 12px; font-weight: 200; margin-top: -10px;">(GitHub Trophies)</p>
+  <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em">(GitHub Trophies)</p>
   <img style="border: none" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&hide_border=true&margin-w=10&theme=tokyonight&no-frame=false&no-bg=true"/>
 </div>
 
