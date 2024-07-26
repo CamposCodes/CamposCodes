@@ -81,8 +81,6 @@
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/git.svg" alt="Git" width="70px" height="70px" title="Git">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/github.svg" alt="GitHub" width="70px" height="70px" title="GitHub">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/wordpress.svg" alt="WordPress" width="70px" height="70px" title="WordPress">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/html.svg" alt="HTML" width="80px" height="80px" title="HTML">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/css.svg" alt="CSS" width="75px" height="75px" title="CSS">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/bootstrap.svg" alt="Bootstrap" width="70px" height="70px" title="Bootstrap">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/javascript.svg" alt="JavaScript" width="60px" height="70px" title="JavaScript">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/typescript.svg" alt="TypeScript" width="60px" height="70px" title="TypeScript">
