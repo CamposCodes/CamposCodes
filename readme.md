@@ -78,17 +78,17 @@
   <h3 style="margin-bottom: 0;">Algumas das minhas habilidades</h3>
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(Some of my skills are)</p>  
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/git.svg" alt="Git" width="50px" height="50px" title="Git">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/github.svg" alt="GitHub" width="50px" height="50px" title="GitHub">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/html.svg" alt="HTML" width="60px" height="60px" title="HTML">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/css.svg" alt="CSS" width="55px" height="55px" title="CSS">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/bootstrap.svg" alt="Bootstrap" width="50px" height="50px" title="Bootstrap">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/javascript.svg" alt="JavaScript" width="40px" height="50px" title="JavaScript">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/typescript.svg" alt="TypeScript" width="40px" height="50px" title="TypeScript">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/reactjs.svg" alt="React" width="50px" height="50px" title="React">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/nextjs.svg" alt="Next.js" width="50px" height="50px" title="Next.js">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/vuejs.svg" alt="Vue.js" width="50px" height="50px" title="Vue.js">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/node.svg" alt="Node.js" width="50px" height="50px" title="Node.js">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/git.svg" alt="Git" width="60px" height="60px" title="Git">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/github.svg" alt="GitHub" width="60px" height="60px" title="GitHub">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/html.svg" alt="HTML" width="70px" height="70px" title="HTML">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/css.svg" alt="CSS" width="65px" height="65px" title="CSS">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/bootstrap.svg" alt="Bootstrap" width="60px" height="60px" title="Bootstrap">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/javascript.svg" alt="JavaScript" width="50px" height="60px" title="JavaScript">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/typescript.svg" alt="TypeScript" width="50px" height="60px" title="TypeScript">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/reactjs.svg" alt="React" width="60px" height="60px" title="React">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/nextjs.svg" alt="Next.js" width="60px" height="60px" title="Next.js">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/vuejs.svg" alt="Vue.js" width="60px" height="60px" title="Vue.js">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/node.svg" alt="Node.js" width="60px" height="60px" title="Node.js">
   </div>
 </div>
 
