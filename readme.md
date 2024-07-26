@@ -80,6 +80,7 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/git.svg" alt="Git" width="60px" height="60px" title="Git">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/github.svg" alt="GitHub" width="60px" height="60px" title="GitHub">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/wordpress.svg" alt="WordPress" width="60px" height="60px" title="WordPress">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/html.svg" alt="HTML" width="70px" height="70px" title="HTML">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/css.svg" alt="CSS" width="65px" height="65px" title="CSS">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/bootstrap.svg" alt="Bootstrap" width="60px" height="60px" title="Bootstrap">
@@ -100,7 +101,7 @@
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(Connect with me)</p>
   
   <a href="https://instagram.com/dev.camposg" target="_blank">
-    <img align="center" src="./plus/Networks/instagram.svg" alt="Instagram" width="65px" height="75px" style="margin-right: 1em;">
+    <img align="center" src="./plus/Networks/instagram.svg" alt="Instagram" width="66px" height="70px" style="margin-right: 1em;">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank">
     <img align="center" src="./plus/Networks/linkedin.svg" alt="LinkedIn" width="60px" height="60px" style="margin-right: 1em;">
