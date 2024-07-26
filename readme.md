@@ -78,18 +78,18 @@
   <h3 style="margin-bottom: 0;">Algumas das minhas habilidades</h3>
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(Some of my skills are)</p>  
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/git.svg" alt="Git" width="60px" height="60px" title="Git">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/github.svg" alt="GitHub" width="60px" height="60px" title="GitHub">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/wordpress.svg" alt="WordPress" width="60px" height="60px" title="WordPress">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/html.svg" alt="HTML" width="70px" height="70px" title="HTML">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/css.svg" alt="CSS" width="65px" height="65px" title="CSS">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/bootstrap.svg" alt="Bootstrap" width="60px" height="60px" title="Bootstrap">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/javascript.svg" alt="JavaScript" width="50px" height="60px" title="JavaScript">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/typescript.svg" alt="TypeScript" width="50px" height="60px" title="TypeScript">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/reactjs.svg" alt="React" width="60px" height="60px" title="React">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/nextjs.svg" alt="Next.js" width="60px" height="60px" title="Next.js">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/vuejs.svg" alt="Vue.js" width="60px" height="60px" title="Vue.js">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/node.svg" alt="Node.js" width="60px" height="60px" title="Node.js">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/git.svg" alt="Git" width="70px" height="70px" title="Git">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/github.svg" alt="GitHub" width="70px" height="70px" title="GitHub">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/wordpress.svg" alt="WordPress" width="70px" height="70px" title="WordPress">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/html.svg" alt="HTML" width="80px" height="80px" title="HTML">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/css.svg" alt="CSS" width="75px" height="75px" title="CSS">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/bootstrap.svg" alt="Bootstrap" width="70px" height="70px" title="Bootstrap">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/javascript.svg" alt="JavaScript" width="60px" height="70px" title="JavaScript">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/typescript.svg" alt="TypeScript" width="60px" height="70px" title="TypeScript">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/reactjs.svg" alt="React" width="70px" height="70px" title="React">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/nextjs.svg" alt="Next.js" width="70px" height="70px" title="Next.js">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/vuejs.svg" alt="Vue.js" width="70px" height="70px" title="Vue.js">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/node.svg" alt="Node.js" width="70px" height="70px" title="Node.js">
   </div>
 </div>
 
@@ -101,10 +101,10 @@
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(Connect with me)</p>
   
   <a href="https://instagram.com/dev.camposg" target="_blank">
-    <img align="center" src="./plus/Networks/instagram.svg" alt="Instagram" width="66px" height="70px" style="margin-right: 1em;">
+    <img align="center" src="./plus/Networks/instagram.svg" alt="Instagram" width="70px" height="65px" style="margin-right: 1em;">
   </a>
   <a href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank">
-    <img align="center" src="./plus/Networks/linkedin.svg" alt="LinkedIn" width="60px" height="60px" style="margin-right: 1em;">
+    <img align="center" src="./plus/Networks/linkedin.svg" alt="LinkedIn" width="65px" height="65px" style="margin-right: 1em;">
   </a>
 </div>
 
