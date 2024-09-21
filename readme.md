@@ -14,14 +14,14 @@
   <div align="left">
     <span style="font-size: 8px;">PT-BR:</span>
     <h3 style="margin-top: 0; margin-bottom: 0;">
-      Desenvolvedor web apaixonado por transformar desafios em soluções criativas. Atualmente, sou graduando em Sistemas de Informação e continuo a expandir meus conhecimentos, acadêmicos e práticos. Abordo projetos desafiadores com dedicação e eficiência, organizo minhas tarefas com precisão e valorizo a colaboração com outros desenvolvedores. Sempre aberto à comunicação, entrego resultados de qualidade. Se você busca um profissional comprometido e com vontade de aprender, sou a escolha certa para agregar valor à sua equipe. Vamos conversar e começar a transformar suas ideias em realidade!
+      Desenvolvedor Full-Stack apaixonado por transformar desafios em soluções criativas. Atualmente, sou graduando em Sistemas de Informação e continuo a expandir meus conhecimentos, acadêmicos e práticos. Abordo projetos desafiadores com dedicação e eficiência, organizo minhas tarefas com precisão e valorizo a colaboração com outros desenvolvedores. Sempre aberto à comunicação e trocas. Se você busca um profissional comprometido e com vontade de aprender, sou a escolha certa para agregar valor à sua equipe. Vamos conversar e começar a transformar suas ideias em realidade!
     </h3>
   </div>
   <br>
   <div align="left">
     <span style="font-size: 8px;">EN-USA:</span>
     <h4 style="font-weight: 200; margin-top: 0;">
-      Web developer passionate about turning challenges into creative solutions. Currently, I’m pursuing a degree in Information Systems and continuously expanding my knowledge, both academic and practical. I tackle challenging projects with dedication and efficiency, organize my tasks precisely, and value collaboration with other developers. Always open to communication, I deliver high-quality results. If you’re looking for a committed professional with a strong desire to learn, I’m the right choice to add value to your team. Let’s talk and start turning your ideas into reality!
+      Full-Stack Developer passionate about turning challenges into creative solutions. Currently pursuing a degree in Information Systems, I continually expand my academic and practical knowledge. I approach challenging projects with dedication and efficiency, organizing tasks with precision and valuing collaboration with fellow developers. Always open to communication and knowledge exchange. If you're looking for a committed professional eager to learn, I am the right choice to add value to your team. Let’s connect and start turning your ideas into reality!
     </h4>
   </div>
 </div>
@@ -45,9 +45,9 @@
 
 <div>
   <img align="left" src="./plus/Main/tip2.png" alt="Experiência" width="68px" height="65px" style="margin-right: 1em;">
-  <p style="margin-left: 3em;">Em busca de oportunidade profissional como <b>Desenvolvedor Web</b></p>
+  <p style="margin-left: 3em;">Sempre em busca de oportunidades para evoluir como <b>Desenvolvedor Full-Stack</b></p>
   <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200; margin-top: -8px;">
-    (Looking for a professional opportunity as a <i>Web Developer</i>)
+    (Always seeking opportunities to evolve as a Full-Stack Developer</i>)
   </p>
 </div>
 
@@ -55,9 +55,9 @@
 
 <div>
   <img align="left" src="./plus/Main/tip3.png" alt="Aprendizado" width="68px" height="65px" style="margin-right: 1em;">
-  <p style="margin-left: 3em;">No momento estou estudando <b>Node.js</b> e <b>Vue.js</b></p>
+  <p style="margin-left: 3em;">No momento estou estudando <b>Spring Boot</b> e <b>Vue.js</b></p>
   <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200; margin-top: -8px;">
-    (Currently studying <i>Node.js</i> and <i>Vue.js</i>)
+    (Currently studying <i>Spring Boot</i> and <i>Vue.js</i>)
   </p>
 </div>
 
@@ -79,15 +79,12 @@
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(Some of my skills are)</p>  
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/git.svg" alt="Git" width="70px" height="70px" title="Git">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/github.svg" alt="GitHub" width="70px" height="70px" title="GitHub">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/wordpress.svg" alt="WordPress" width="70px" height="70px" title="WordPress">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/bootstrap.svg" alt="Bootstrap" width="70px" height="70px" title="Bootstrap">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/springboot.svg" alt="Spring Boot" width="70px" height="70px" title="Spring Boot">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/vuejs.svg" alt="Vue.js" width="70px" height="70px" title="Vue.js">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/reactjs.svg" alt="React.js" width="70px" height="70px" title="React.js">
+    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/nextjs.svg" alt="Next.js" width="70px" height="70px" title="Next.js">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/javascript.svg" alt="JavaScript" width="60px" height="70px" title="JavaScript">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/typescript.svg" alt="TypeScript" width="60px" height="70px" title="TypeScript">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/reactjs.svg" alt="React" width="70px" height="70px" title="React">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/nextjs.svg" alt="Next.js" width="70px" height="70px" title="Next.js">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/vuejs.svg" alt="Vue.js" width="70px" height="70px" title="Vue.js">
-    <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/node.svg" alt="Node.js" width="70px" height="70px" title="Node.js">
   </div>
 </div>
 
