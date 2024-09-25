@@ -111,15 +111,14 @@
   <h3 style="margin-bottom: 0; font-weight: 400;">Meus Dashboards GitHub</h3>
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(My GitHub Dashboards)</p>
   
-  <div style="display: flex; justify-content: center; gap: 1em;">
-    <img align="left" src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" width="400px" height="160px" style="border-radius: 20px;" alt="GitHub Streak Stats"/>
-    <img align="right" width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight" style="border-radius: 20px;"/>
+  <div style="display: flex; justify-content: center; gap: 1em; margin-bottom: 1em;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true" width="400" height="160" style="border-radius: 10px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight" width="400" height="160" style="border-radius: 10px;" />
   </div>
-  <br> 
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true" width="400px" height="160px" style="border-radius: 20px;" alt="Most Used Languages"/>
-  </div>
+  
+  <img src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="400" height="160" style="border-radius: 10px; margin-top: 1em;" />
 </div>
+
 <br>
 
 <!-- Trophies Section -->
