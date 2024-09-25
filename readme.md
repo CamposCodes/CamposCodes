@@ -111,12 +111,20 @@
   <h3 style="margin-bottom: 0; font-weight: 400;">Meus Dashboards GitHub</h3>
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(My GitHub Dashboards)</p>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true&border_radius=25" width="400" height="100%"/>
-  <img src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" width="400" height="100%"/>
+  <div style="width: 400px; height: 160px; margin: 1em 0; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true&border_radius=25" width="400" height="160" style="border-radius: 10px;"/>
+  </div>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25" width="600" height="100%"/>
+  <div style="width: 400px; height: 160px; margin: 1em 0; overflow: hidden;">
+    <img src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" width="400" height="160" style="border-radius: 10px;"/>
+  </div>
+  
+  <div style="width: 600px; height: 160px; margin: 1em 0; overflow: hidden;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25" width="600" height="160" style="border-radius: 10px;"/>
+  </div>
   
 </div>
+
 
 
 <br>
