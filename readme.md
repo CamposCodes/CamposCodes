@@ -76,7 +76,7 @@
 
 <!-- Skills Section -->
 <div align="center">
-  <h3 style="margin-bottom: 0; font-weight: 400;">Algumas das minhas habilidades</h3>
+  <h3 style="font-weight: 400;">Algumas das minhas habilidades</h3>
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(Some of my skills are)</p>  
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1em;">
     <img style="cursor: pointer; margin: 0.5em;" src="./plus/Languages/git.svg" alt="Git" width="70px" height="70px" title="Git">
