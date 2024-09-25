@@ -117,7 +117,7 @@
   </div>
   <br> 
   <div>
-    <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight" style="border-radius: 20px;"/>
+    <img align="center" width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight" style="border-radius: 20px;"/>
   </div>
 </div>
 <br>
