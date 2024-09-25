@@ -112,8 +112,8 @@
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(My GitHub Dashboards)</p>
   
   <div style="display: flex; justify-content: center; gap: 1em; margin-bottom: 1em;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true" width="400" height="115" style="border-radius: 10px;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight" width="400" style="border-radius: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true" height="200" style="border-radius: 10px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight"  style="border-radius: 10px;" />
   </div>
 </div>
 
