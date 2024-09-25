@@ -7,7 +7,7 @@
   <p align="center" style="font-size: 12px; font-weight: 200; margin-top: -15px;">(I’m Gabriel Campos Lima Alves)</p>
 </h2>
 
-<br>
+</br> 
 
 <!-- About Me Section -->
 <div>
@@ -27,11 +27,11 @@
   </div>
 </div>
 
-<br>
+</br> 
 
 <hr>
 
-<br>
+</br> 
 
 <!-- Sections with Icons and Descriptions -->
 <div style="margin: 0;">
@@ -42,7 +42,7 @@
   </p>
 </div>
 
-<br>
+</br> 
 
 <div>
   <img align="left" src="./plus/Main/tip2.png" alt="Experiência" width="68px" height="65px" style="margin-right: 1em;">
@@ -52,7 +52,7 @@
   </p>
 </div>
 
-<br>
+</br> 
 
 <div>
   <img align="left" src="./plus/Main/tip3.png" alt="Aprendizado" width="68px" height="65px" style="margin-right: 1em;">
@@ -62,7 +62,7 @@
   </p>
 </div>
 
-<br>
+</br> 
 
 <div>
   <img align="left" src="./plus/Main/tip4.png" alt="Contato" width="68px" height="65px" style="margin-right: 1em;">
@@ -72,7 +72,7 @@
   </p>
 </div>
 
-<br>
+</br> 
 
 <!-- Skills Section -->
 <div align="center">
@@ -89,7 +89,7 @@
   </div>
 </div>
 
-<br>
+</br> 
 
 <!-- Connect Section -->
 <div align="center">
@@ -104,7 +104,8 @@
   </a>
 </div>
 
-<br>
+</br> 
+
 
 <!-- Stats Section -->
 <div align="center">
@@ -120,8 +121,7 @@
   
 </div>
 
-
-<br>
+</br> 
 
 <!-- Trophies Section -->
 <div align="center">
