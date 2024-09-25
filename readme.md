@@ -1,12 +1,12 @@
 <!-- Header Section -->
 <h2 align="left">Olá, você aí...
   <img align="center" width="50px" height="50px" src="./plus/Main/hello.gif" alt="Olá">
-  <br>
+  </br> 
   <p align="center">Eu sou <i>Gabriel Campos Lima Alves</i></p>
   <p align="center" style="font-size: 12px; font-weight: 200; margin-top: -15px;">(I’m Gabriel Campos Lima Alves)</p>
 </h2>
 
-<br>
+</br> 
 
 <!-- About Me Section -->
 <div>
@@ -17,7 +17,7 @@
       Desenvolvedor Full-Stack apaixonado por transformar desafios em soluções criativas. Atualmente, sou graduando em Sistemas de Informação e continuo a expandir meus conhecimentos, acadêmicos e práticos. Abordo projetos desafiadores com dedicação e eficiência, organizo minhas tarefas com precisão e valorizo a colaboração com outros desenvolvedores. Sempre aberto à comunicação e trocas. Se você busca um profissional comprometido e com vontade de aprender, sou a escolha certa para agregar valor à sua equipe. Vamos conversar e começar a transformar suas ideias em realidade!
     </h3>
   </div>
-  <br>
+  </br> 
   <div align="left">
     <span style="font-size: 8px;">EN-USA:</span>
     <h4 style="font-weight: 200; margin-top: 0;">
@@ -26,11 +26,11 @@
   </div>
 </div>
 
-<br>
+</br> 
 
 <hr>
 
-<br>
+</br> 
 
 <!-- Sections with Icons and Descriptions -->
 <div style="margin: 0;">
@@ -41,7 +41,7 @@
   </p>
 </div>
 
-<br>
+</br> 
 
 <div>
   <img align="left" src="./plus/Main/tip2.png" alt="Experiência" width="68px" height="65px" style="margin-right: 1em;">
@@ -51,7 +51,7 @@
   </p>
 </div>
 
-<br>
+</br> 
 
 <div>
   <img align="left" src="./plus/Main/tip3.png" alt="Aprendizado" width="68px" height="65px" style="margin-right: 1em;">
@@ -61,7 +61,7 @@
   </p>
 </div>
 
-<br>
+</br> 
 
 <div>
   <img align="left" src="./plus/Main/tip4.png" alt="Contato" width="68px" height="65px" style="margin-right: 1em;">
@@ -71,7 +71,7 @@
   </p>
 </div>
 
-<br>
+</br> 
 
 <!-- Skills Section -->
 <div align="center">
@@ -88,7 +88,7 @@
   </div>
 </div>
 
-<br>
+</br> 
 
 <!-- Connect Section -->
 <div align="center">
@@ -103,26 +103,31 @@
   </a>
 </div>
 
-<br>
+</br> 
 
 <!-- Stats Section -->
 <div align="center">
-  <h3 style="margin-bottom: 0;">Linguagens Mais Usadas</h3>
-  <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(Most Used Languages)</p>
+  <h3 style="margin-bottom: 0;">Meus Dashboards GitHub</h3>
+  <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(My GitHub Dashboards)</p>
   
   <div style="display: flex; justify-content: center; gap: 1em;">
-    <img src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" width="400px" height="160px" style="border-radius: 2em;" alt="GitHub Streak Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true" width="400px" height="160px" style="border-radius: 2em;" alt="Most Used Languages"/>
+    <img src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" width="400px" height="160px" style="border-radius: 20px;" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true" width="400px" height="160px" style="border-radius: 20px;" alt="Most Used Languages"/>
+  </div>
+  </br> 
+  <div>
+    <img align="left" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight" style="border-radius: 20px;"/>
   </div>
 </div>
+</br> 
 
-<br>
 
 <!-- Trophies Section -->
 <div align="center">
-  <h3 style="margin-bottom: 0;">Troféus do GitHub</h3>
+  <h3 style="margin-bottom: 0; margin-top: 1em">Troféus do GitHub</h3>
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em">(GitHub Trophies)</p>
   <img style="border: none" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&hide_border=true&margin-w=10&theme=tokyonight&no-frame=false&no-bg=true"/>
+
 </div>
 
 <!-- Visitor Count -->
