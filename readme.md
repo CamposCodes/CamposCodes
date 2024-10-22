@@ -130,8 +130,6 @@
 
 <!-- Trophies Section -->
 <div align="center">
-  <h3 style="margin-bottom: 0; margin-top: 1em; font-weight: 400;">Troféus do GitHub</h3>
-  <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(GitHub Trophies)</p>
   <img style="border: none" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&hide_border=true&margin-w=10&theme=tokyonight&no-frame=false&no-bg=true"/>
 </div>
 
