@@ -75,12 +75,6 @@
 
 </br> 
 
-<div style="background-color: #f7f7f7; padding: 20px;">
-  <h2>Seção 1</h2>
-  <p>Conteúdo da primeira seção.</p>
-</div>
-
-
 <!-- Skills Section -->
 <div align="center">
   <h3 style="font-weight: 400;">Algumas das minhas habilidades</h3>
