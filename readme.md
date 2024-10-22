@@ -64,7 +64,6 @@
 
 </br> 
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div>
   <img align="left" src="./plus/Main/tip4.png" alt="Contato" width="68px" height="65px" style="margin-right: 1em;">
@@ -75,6 +74,8 @@
 </div>
 
 </br> 
+
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!-- Skills Section -->
 <div align="center">
