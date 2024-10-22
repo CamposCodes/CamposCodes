@@ -114,7 +114,7 @@
   <h3 style="margin-bottom: 0; font-weight: 400;">Meus Dashboards GitHub</h3>
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(My GitHub Dashboards)</p>
   
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25" width="700" height="250"/>
 
