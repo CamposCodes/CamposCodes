@@ -64,6 +64,8 @@
 
 </br> 
 
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div>
   <img align="left" src="./plus/Main/tip4.png" alt="Contato" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em; font-size: 14px;">Como chegar até mim: <b>dev.camposgabriel@gmail.com</b></p>
