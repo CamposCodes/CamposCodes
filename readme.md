@@ -114,13 +114,13 @@
   <h3 style="margin-bottom: 0; font-weight: 400;">Meus Dashboards GitHub</h3>
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(My GitHub Dashboards)</p>
   
-  ![Status](./profile-3d-contrib/profile-night-view.svg)
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Status" width="800" height="600">
+
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25" width="700" height="250"/>
 
 <div> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true&border_radius=25" width="400" height="200"/>
-    <img src="https://streak-stats.demolab.com?user=CamposCodes&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" width="400" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true&border_radius=4" width="315" height="200"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight&hide_border=true" width="600" height="200"/>
 </div>
   
 </div>
