@@ -65,7 +65,7 @@
 </br> 
 
 
-<div style="background-color: #70a5fd; padding: 20px; text-align: center;">
+<div>
   <img align="left" src="./plus/Main/tip4.png" alt="Contato" width="68px" height="65px" style="margin-right: 1em;">
   <p style="margin-left: 3em; font-size: 14px;">Como chegar até mim: <b>dev.camposgabriel@gmail.com</b></p>
   <p style="margin-left: 3em; margin-top: -0.5em; font-size: 12px; font-weight: 200;">
@@ -74,6 +74,11 @@
 </div>
 
 </br> 
+
+<div style="background-color: #f7f7f7; padding: 20px;">
+  <h2>Seção 1</h2>
+  <p>Conteúdo da primeira seção.</p>
+</div>
 
 
 <!-- Skills Section -->
