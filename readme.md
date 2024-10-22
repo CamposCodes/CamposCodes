@@ -75,7 +75,6 @@
 
 </br> 
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!-- Skills Section -->
 <div align="center">
@@ -111,6 +110,8 @@
 
 
 <!-- Stats Section -->
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div align="center">
   <h3 style="margin-bottom: 0; font-weight: 400;">Meus Dashboards GitHub</h3>
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(My GitHub Dashboards)</p>
