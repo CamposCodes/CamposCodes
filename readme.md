@@ -113,16 +113,13 @@
 <div align="center">
   <h3 style="margin-bottom: 0; font-weight: 400;">Meus Dashboards GitHub</h3>
   <p style="font-size: 12px; font-weight: 200; margin-top: -0.5em;">(My GitHub Dashboards)</p>
-  
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="Status" width="800" height="600">
 
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
   
-
-<div> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true&border_radius=4" width="275" height="200"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight&hide_border=true" width="525" height="200"/>
-</div>
-  
+  <div> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true&border_radius=4" width="275" height="200"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight&hide_border=true" width="525" height="200"/>
+  </div>
 </div>
 
 </br> 
