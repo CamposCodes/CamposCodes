@@ -15,14 +15,14 @@
   <div align="left" style="max-width: 70%;">
     <span style="font-size: 12px;">PT-BR:</span>
     <h3 style="margin-top: 0; margin-bottom: 0; font-weight: 400;">
-      Desenvolvedor Full-Stack apaixonado por transformar desafios em soluções criativas. Atualmente, sou graduando em Sistemas de Informação e continuo a expandir meus conhecimentos, acadêmicos e práticos. Abordo projetos desafiadores com dedicação e eficiência, organizo minhas tarefas com precisão e valorizo a colaboração com outros desenvolvedores. Sempre aberto à comunicação e trocas. Se você busca um profissional comprometido e com vontade de aprender, sou a escolha certa para agregar valor à sua equipe. Vamos conversar e começar a transformar suas ideias em realidade!
+      Desenvolvedor Full-Stack, graduando em Sistemas de Informação, comprometido e com vontade de aprender. Busco me aprimorar por meio de experiências dentro e fora da universidade. Abordo projetos desafiadores com dedicação e eficiência, valorizo a colaboração e estou sempre aberto à comunicação e trocas. Vamos conversar e começar a transformar ideias em realidade!
     </h3>
   </div>
   <br>
   <div align="left" style="max-width: 70%;">
     <span style="font-size: 12px;">EN-USA:</span>
     <h4 style="font-weight: 200; margin-top: 0;">
-      Full-Stack Developer passionate about turning challenges into creative solutions. Currently pursuing a degree in Information Systems, I continually expand my academic and practical knowledge. I approach challenging projects with dedication and efficiency, organizing tasks with precision and valuing collaboration with fellow developers. Always open to communication and knowledge exchange. If you're looking for a committed professional eager to learn, I am the right choice to add value to your team. Let’s connect and start turning your ideas into reality!
+      Full-Stack Developer, currently pursuing a degree in Information Systems, committed and eager to learn. I seek to enhance my skills through experiences both inside and outside the university. I approach challenging projects with dedication and efficiency, value collaboration, and am always open to communication and exchange. Let's connect and start turning ideas into reality!
     </h4>
   </div>
 </div>
