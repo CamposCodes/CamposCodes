@@ -119,7 +119,7 @@
   
 
 <div> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true&border_radius=4" width="315" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true&border_radius=4" width="200" height="200"/>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight&hide_border=true" width="600" height="200"/>
 </div>
   
