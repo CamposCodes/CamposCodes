@@ -129,5 +129,35 @@
   <img style="border: none" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&hide_border=true&margin-w=10&theme=tokyonight&no-frame=false&no-bg=true"/>
 </div>
 
+
+<details>
+<summary><strong>📚 Estudos - Design Patterns (DCC078)</strong></summary>
+
+Implementações de padrões de design em **Java**:
+
+### Criacionais
+- [Singleton](https://github.com/CamposCodes/PadroesCriacionais-Singleton)
+- [Factory Method](https://github.com/CamposCodes/PadroesCriacionais-FactoryMethod)
+- [Abstract Factory](https://github.com/CamposCodes/PadroesCriacionais-AbstractFactory)
+- [Builder](https://github.com/CamposCodes/PadroesCriacionais-Builder)
+- [Prototype](https://github.com/CamposCodes/PadroesCriacionais-Prototype)
+
+### Estruturais
+- [Bridge](https://github.com/CamposCodes/PadroesEstruturais-Bridge)
+- [Adapter](https://github.com/CamposCodes/PadroesEstruturais-Adapter)
+- [Decorator](https://github.com/CamposCodes/PadroesEstruturais-Decorator)
+- [Flyweight](https://github.com/CamposCodes/PadroesEstruturais-Flyweight)
+- [Composite](https://github.com/CamposCodes/PadroesEstruturais-Composite)
+
+### Comportamentais
+- [Observer](https://github.com/CamposCodes/PadroesComportamentais-Observer)
+- [Strategy](https://github.com/CamposCodes/PadroesComportamentais-Strategy)
+- [State](https://github.com/CamposCodes/PadroesComportamentais-State)
+- [Template Method](https://github.com/CamposCodes/PadroesComportamentais-TemplateMethod)
+- [Iterator](https://github.com/CamposCodes/PadroesComportamentais-Iterator)
+- [Mediator](https://github.com/CamposCodes/PadroesComportamentais-Mediator)
+
+</details>
+
 <!-- Visitor Count -->
 <img align="right" src="https://visitcount.itsvg.in/api?id=CamposCodes&color=12"/>
