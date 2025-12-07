@@ -129,7 +129,7 @@
   <img style="border: none" height="150em" src="https://github-profile-trophy.vercel.app/?username=CamposCodes&hide_border=true&margin-w=10&theme=tokyonight&no-frame=false&no-bg=true"/>
 </div>
 
-
+/*
 <details>
 <summary><strong>📚 Estudos - Design Patterns (DCC078)</strong></summary>
 
@@ -158,6 +158,7 @@ Implementações de padrões de design em **Java**:
 - [Mediator](https://github.com/CamposCodes/PadroesComportamentais-Mediator)
 
 </details>
+*/
 
 <!-- Visitor Count -->
 <img align="right" src="https://visitcount.itsvg.in/api?id=CamposCodes&color=12"/>
