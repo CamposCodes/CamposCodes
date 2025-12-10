@@ -26,34 +26,34 @@
 </div>
 
 <!-- Icons with short items (Universidade, Experiência, Aprendizado, Contato) -->
-<table style="width:100%; border-collapse:collapse; margin-top:0.6em;">
+<table style="width:100%; border:none; border-collapse:collapse; margin-top:0.6em;">
   <tr>
-    <td style="width:60px; padding-right:1em; vertical-align:top;"><img src="./plus/Main/tip1.png" alt="Universidade" width="50" height="50" /></td>
-    <td style="vertical-align:top;">
+    <td style="width:60px; padding-right:1em; vertical-align:top; border:none;"><img src="./plus/Main/tip1.png" alt="Universidade" width="50" height="50" /></td>
+    <td style="vertical-align:top; border:none;">
       <p style="margin:0; font-size:14px; font-weight:500;">Atualmente estudando <b>Sistemas de Informação</b> na <i>Universidade Federal de Juiz de Fora</i></p>
       <p style="margin:0.2em 0 0 0; font-size:12px; color:#6b7280;">(Currently studying Information Systems at <i>Universidade Federal de Juiz de Fora</i>)</p>
     </td>
   </tr>
-  <tr style="height:0.5em;"><td colspan="2"></td></tr>
+  <tr style="height:0.5em;"><td colspan="2" style="border:none;"></td></tr>
   <tr>
-    <td style="width:60px; padding-right:1em; vertical-align:top;"><img src="./plus/Main/tip2.png" alt="Experiência" width="50" height="50" /></td>
-    <td style="vertical-align:top;">
+    <td style="width:60px; padding-right:1em; vertical-align:top; border:none;"><img src="./plus/Main/tip2.png" alt="Experiência" width="50" height="50" /></td>
+    <td style="vertical-align:top; border:none;">
       <p style="margin:0; font-size:14px; font-weight:500;">Sempre em busca de oportunidades para evoluir como <b>Desenvolvedor Full-Stack</b></p>
       <p style="margin:0.2em 0 0 0; font-size:12px; color:#6b7280;">(Always seeking opportunities to evolve as a Full-Stack Developer)</p>
     </td>
   </tr>
-  <tr style="height:0.5em;"><td colspan="2"></td></tr>
+  <tr style="height:0.5em;"><td colspan="2" style="border:none;"></td></tr>
   <tr>
-    <td style="width:60px; padding-right:1em; vertical-align:top;"><img src="./plus/Main/tip3.png" alt="Aprendizado" width="50" height="50" /></td>
-    <td style="vertical-align:top;">
+    <td style="width:60px; padding-right:1em; vertical-align:top; border:none;"><img src="./plus/Main/tip3.png" alt="Aprendizado" width="50" height="50" /></td>
+    <td style="vertical-align:top; border:none;">
       <p style="margin:0; font-size:14px; font-weight:500;">No momento estou estudando <b>Spring Boot</b> e <b>Vue.js</b></p>
       <p style="margin:0.2em 0 0 0; font-size:12px; color:#6b7280;">(Currently studying <i>Spring Boot</i> and <i>Vue.js</i>)</p>
     </td>
   </tr>
-  <tr style="height:0.5em;"><td colspan="2"></td></tr>
+  <tr style="height:0.5em;"><td colspan="2" style="border:none;"></td></tr>
   <tr>
-    <td style="width:60px; padding-right:1em; vertical-align:top;"><img src="./plus/Main/tip4.png" alt="Contato" width="50" height="50" /></td>
-    <td style="vertical-align:top;">
+    <td style="width:60px; padding-right:1em; vertical-align:top; border:none;"><img src="./plus/Main/tip4.png" alt="Contato" width="50" height="50" /></td>
+    <td style="vertical-align:top; border:none;">
       <p style="margin:0; font-size:14px; font-weight:500;">Como chegar até mim: <b>dev.camposgabriel@gmail.com</b></p>
       <p style="margin:0.2em 0 0 0; font-size:12px; color:#6b7280;">(How to reach me: <i>dev.camposgabriel@gmail.com</i>)</p>
     </td>
