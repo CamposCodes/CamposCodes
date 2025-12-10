@@ -26,7 +26,7 @@
 </div>
 
 <!-- Icons with short items (Universidade, Experiência, Aprendizado, Contato) -->
-<table style="width:100%; border-collapse:collapse; border:0; cellpadding:0; cellspacing:0; margin-top:0.6em;">
+<table style="min-width:100%; border-collapse:collapse; border:0; cellpadding:0; cellspacing:0; margin-top:0.6em;">
   <tbody>
     <tr style="border:none;">
       <td style="width:60px; padding-right:12px; vertical-align:top; border:0; padding-bottom:12px;">
