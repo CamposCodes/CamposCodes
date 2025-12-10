@@ -7,8 +7,6 @@
   <p align="center" style="font-size: 12px; font-weight: 200; margin-top: -10px;">(I’m Gabriel Campos Lima Alves)</p>
 </h2>
 
-<hr>
-
 <!-- About / Perfil -->
 <div>
   <img width="220" height="160" align="right" src="./plus/Main/top.png" alt="Profile Top" style="margin-left: 1em;"/>
