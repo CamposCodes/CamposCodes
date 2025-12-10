@@ -112,21 +112,10 @@
   <h3 style="font-weight:400; margin-bottom:0.2em;">Meus Dashboards GitHub</h3>
   <p style="font-size:12px; color:#6b7280; margin-top:0;">(My GitHub Dashboards)</p>
 
-  <!-- local SVG status (mantive o seu arquivo local) -->
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="Status" style="max-width:100%; height:auto; margin-top:0.6em;"/>
-
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1em; margin-top:0.8em;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamposCodes&layout=compact&theme=tokyonight&hide_border=true&border_radius=4" alt="Top Languages" width="275" height="200"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CamposCodes&theme=tokyonight&hide_border=true" alt="Profile Details" width="525" height="200"/>
-  </div>
 </div>
 
 <hr>
-
-<!-- Trophies -->
-<div align="center" style="margin-top:1em;">
-  <img src="https://github-profile-trophy.vercel.app/?username=CamposCodes&hide_border=true&margin-w=10&theme=tokyonight&no-frame=false&no-bg=true" alt="Trophies" style="max-width:100%; height:auto;"/>
-</div>
 
 <!-- Estudos / Design Patterns -->
 <details style="margin-top:1em;">
