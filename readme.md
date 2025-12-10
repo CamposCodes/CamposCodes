@@ -79,18 +79,16 @@
     <img src="./plus/Languages/github-mark.svg" alt="GitHub" title="GitHub" width="70" height="70"/>
     <img src="./plus/Languages/java.svg" alt="Java" title="Java" width="70" height="70"/>
     <img src="./plus/Languages/springboot.svg" alt="Spring Boot" title="Spring Boot" width="70" height="70"/>
-    <img src="./plus/Languages/docker.svg" alt="Docker" title="Docker" width="70" height="70" />
-    <img src="./plus/Languages/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="70" height="70" />
-    <img src="./plus/Languages/vuejs.svg" alt="Vue.js" title="Vue.js" width="70" height="70" />
-    <img src="./plus/Languages/nuxt.svg" alt="Nuxt" title="Nuxt" width="70" height="70" />
-    <img src="./plus/Languages/reactjs.svg" alt="React.js" title="React.js" width="70" height="70" />
-    <img src="./plus/Languages/nextjs.svg" alt="Next.js" title="Next.js" width="70" height="70" />
-    <img src="./plus/Languages/javascript.svg" alt="JavaScript" title="JavaScript" width="60" height="70" />
-    <img src="./plus/Languages/typescript.svg" alt="TypeScript" title="TypeScript" width="60" height="70" />
+    <img src="./plus/Languages/docker.svg" alt="Docker" title="Docker" width="70" height="70"/>
+    <img src="./plus/Languages/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="70" height="70"/>
+    <img src="./plus/Languages/vuejs.svg" alt="Vue.js" title="Vue.js" width="70" height="70"/>
+    <img src="./plus/Languages/nuxt.svg" alt="Nuxt" title="Nuxt" width="70" height="70"/>
+    <img src="./plus/Languages/reactjs.svg" alt="React.js" title="React.js" width="70" height="70"/>
+    <img src="./plus/Languages/nextjs.svg" alt="Next.js" title="Next.js" width="70" height="70"/>
+    <img src="./plus/Languages/javascript.svg" alt="JavaScript" title="JavaScript" width="60" height="70"/>
+    <img src="./plus/Languages/typescript.svg" alt="TypeScript" title="TypeScript" width="60" height="70"/>
   </div>
 </div>
-
-<hr>
 
 <!-- Connect -->
 <div align="center" style="margin-top:1em;">
