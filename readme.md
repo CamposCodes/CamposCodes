@@ -25,8 +25,6 @@
   </div>
 </div>
 
-<hr>
-
 <!-- Icons with short items (Universidade, Experiência, Aprendizado, Contato) -->
 <div style="display: grid; grid-template-columns: 1fr; gap: 0.8em; margin-top: 0.6em;">
   <div style="display:flex; align-items:flex-start; gap:1em;">
