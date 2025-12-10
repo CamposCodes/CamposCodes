@@ -76,7 +76,10 @@
 
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/git.svg" alt="Git" title="Git" width="70" height="70" style="background:transparent;"/>
+    <img src="./plus/Languages/java.svg" alt="Java" title="Java" width="70" height="70" />
+    <img src="./plus/Languages/spring.svg" alt="Spring" title="Spring" width="70" height="70" />
     <img src="./plus/Languages/springboot.svg" alt="Spring Boot" title="Spring Boot" width="70" height="70" />
+    <img src="./plus/Languages/nuxt.svg" alt="Nuxt" title="Nuxt" width="70" height="70" />
     <img src="./plus/Languages/vuejs.svg" alt="Vue.js" title="Vue.js" width="70" height="70" />
     <img src="./plus/Languages/reactjs.svg" alt="React.js" title="React.js" width="70" height="70" />
     <img src="./plus/Languages/nextjs.svg" alt="Next.js" title="Next.js" width="70" height="70" />
