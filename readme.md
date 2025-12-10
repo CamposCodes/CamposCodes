@@ -26,36 +26,36 @@
 </div>
 
 <!-- Icons with short items (Universidade, Experiência, Aprendizado, Contato) -->
-<div style="display: grid; grid-template-columns: 1fr; gap: 0.8em; margin-top: 0.6em;">
-  <div style="display:flex; align-items:flex-start; gap:1em;">
-    <img src="./plus/Main/tip1.png" alt="Universidade" width="68" height="65" />
-    <div>
-      <p style="margin:0; font-size:14px;">Atualmente estudando <b>Sistemas de Informação</b> na <i>Universidade Federal de Juiz de Fora</i></p>
-      <p style="margin:0; font-size:12px; color:#6b7280;">(Currently studying Information Systems at <i>Universidade Federal de Juiz de Fora</i>)</p>
+<div style="display: grid; grid-template-columns: 1fr; gap: 1.2em; margin-top: 0.6em;">
+  <div style="display:flex; align-items:center; gap:1.2em;">
+    <img src="./plus/Main/tip1.png" alt="Universidade" width="60" height="60" style="flex-shrink:0;"/>
+    <div style="flex:1;">
+      <p style="margin:0; font-size:15px; line-height:1.4;">Atualmente estudando <b>Sistemas de Informação</b> na <i>Universidade Federal de Juiz de Fora</i></p>
+      <p style="margin:0.3em 0 0 0; font-size:12px; color:#6b7280; line-height:1.4;">(Currently studying Information Systems at <i>Universidade Federal de Juiz de Fora</i>)</p>
     </div>
   </div>
 
-  <div style="display:flex; align-items:flex-start; gap:1em;">
-    <img src="./plus/Main/tip2.png" alt="Experiência" width="68" height="65" />
-    <div>
-      <p style="margin:0; font-size:14px;">Sempre em busca de oportunidades para evoluir como <b>Desenvolvedor Full-Stack</b></p>
-      <p style="margin:0; font-size:12px; color:#6b7280;">(Always seeking opportunities to evolve as a Full-Stack Developer)</p>
+  <div style="display:flex; align-items:center; gap:1.2em;">
+    <img src="./plus/Main/tip2.png" alt="Experiência" width="60" height="60" style="flex-shrink:0;"/>
+    <div style="flex:1;">
+      <p style="margin:0; font-size:15px; line-height:1.4;">Sempre em busca de oportunidades para evoluir como <b>Desenvolvedor Full-Stack</b></p>
+      <p style="margin:0.3em 0 0 0; font-size:12px; color:#6b7280; line-height:1.4;">(Always seeking opportunities to evolve as a Full-Stack Developer)</p>
     </div>
   </div>
 
-  <div style="display:flex; align-items:flex-start; gap:1em;">
-    <img src="./plus/Main/tip3.png" alt="Aprendizado" width="68" height="65" />
-    <div>
-      <p style="margin:0; font-size:14px;">No momento estou estudando <b>Spring Boot</b> e <b>Vue.js</b></p>
-      <p style="margin:0; font-size:12px; color:#6b7280;">(Currently studying <i>Spring Boot</i> and <i>Vue.js</i>)</p>
+  <div style="display:flex; align-items:center; gap:1.2em;">
+    <img src="./plus/Main/tip3.png" alt="Aprendizado" width="60" height="60" style="flex-shrink:0;"/>
+    <div style="flex:1;">
+      <p style="margin:0; font-size:15px; line-height:1.4;">No momento estou estudando <b>Spring Boot</b> e <b>Vue.js</b></p>
+      <p style="margin:0.3em 0 0 0; font-size:12px; color:#6b7280; line-height:1.4;">(Currently studying <i>Spring Boot</i> and <i>Vue.js</i>)</p>
     </div>
   </div>
 
-  <div style="display:flex; align-items:flex-start; gap:1em;">
-    <img src="./plus/Main/tip4.png" alt="Contato" width="68" height="65" />
-    <div>
-      <p style="margin:0; font-size:14px;">Como chegar até mim: <b>dev.camposgabriel@gmail.com</b></p>
-      <p style="margin:0; font-size:12px; color:#6b7280;">(How to reach me: <i>dev.camposgabriel@gmail.com</i>)</p>
+  <div style="display:flex; align-items:center; gap:1.2em;">
+    <img src="./plus/Main/tip4.png" alt="Contato" width="60" height="60" style="flex-shrink:0;"/>
+    <div style="flex:1;">
+      <p style="margin:0; font-size:15px; line-height:1.4;">Como chegar até mim: <b>dev.camposgabriel@gmail.com</b></p>
+      <p style="margin:0.3em 0 0 0; font-size:12px; color:#6b7280; line-height:1.4;">(How to reach me: <i>dev.camposgabriel@gmail.com</i>)</p>
     </div>
   </div>
 </div>
