@@ -99,7 +99,6 @@
             </div>
           </details>
         </div>
-
         <div style="display:flex; align-items:center; justify-content:center;">
           <details open style="width:100%; border:none;">
             <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em; text-align:center;">⚙️ Backend & Infraestrutura</summary>
