@@ -165,7 +165,7 @@ Projetos Acadêmicos / Estudos
 
   <div style="display:flex; justify-content:center; gap:1.5em; margin-top:1em;">
     <a href="mailto:dev.camposgabriel@gmail.com" target="_blank">
-      <img src="./plus/Networks/email.svg" alt="Email"/>
+      <img src="./plus/Networks/email.svg" alt="Email" width="65" height="40" />
     </a>
     <a href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank">
       <img src="./plus/Networks/linkedin.svg" alt="LinkedIn" width="65" height="40" />
