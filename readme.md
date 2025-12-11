@@ -26,10 +26,7 @@
       </td>
       <td style="width:100%; vertical-align:top; border:0; padding-bottom:12px;">
         <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
-          <strong>Sistemas de Informação</strong> — Universidade Federal de Juiz de Fora (UFJF)
-        </p>
-        <p style="margin:0.2em 0 0 0; font-size:12px; color:#6b7280; line-height:1.3;">
-          Cursando disciplinas de Engenharia de Software, Banco de Dados e Arquitetura de Sistemas
+         Cursando <strong>Sistemas de Informação</strong> — Universidade Federal de Juiz de Fora (UFJF)
         </p>
       </td>
     </tr>
