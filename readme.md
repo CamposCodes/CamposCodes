@@ -66,7 +66,7 @@
 
 <hr>
 
-<!-- Stack Técnica 
+<!-- Stack Técnica -->
 <div align="center" style="margin-top:1.5em;">
   <h3 style="font-weight:500; margin-bottom:0.3em;">🛠️ Stack Técnica</h3>
 
@@ -103,6 +103,7 @@
 
 <hr>
 
+<!-- 
 Projetos Acadêmicos / Estudos 
 <div style="margin-top:1.5em;">
   <h3 align="center" style="font-weight:500; margin-bottom:0.5em;">📚 Aprendizado Estruturado</h3>
@@ -142,6 +143,7 @@ Projetos Acadêmicos / Estudos
   </ul>
   </details>
 </div>
+
 <hr>
 -->
 
