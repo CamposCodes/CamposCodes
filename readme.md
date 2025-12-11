@@ -49,10 +49,7 @@
       </td>
       <td style="width:100%; vertical-align:top; border:0; padding-bottom:12px;">
         <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
-          Atualmente estudando: <strong>Spring Boot avançado</strong>, <strong>Vue.js 3 Composition API</strong> e <strong>Docker</strong>
-        </p>
-        <p style="margin:0.2em 0 0 0; font-size:12px; color:#6b7280; line-height:1.3;">
-          Implementando 15+ Design Patterns em Java como parte da disciplina DCC078
+          Aprofundando conhecimentos em: <strong>Spring Boot</strong> (APIs RESTful, JPA/Hibernate), <strong>Vue.js 3</strong> (Composition API, Pinia), <strong>Docker</strong> e <strong>Clean Architecture</strong>
         </p>
       </td>
     </tr>
