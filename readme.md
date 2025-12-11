@@ -26,7 +26,7 @@
       </td>
       <td style="width:100%; vertical-align:top; border:0; padding-bottom:12px;">
         <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
-         Cursando <strong>Sistemas de Informação</strong> — Universidade Federal de Juiz de Fora (UFJF)
+         Cursando <strong>Sistemas de Informação</strong> na Universidade Federal de Juiz de Fora (UFJF)
         </p>
       </td>
     </tr>
