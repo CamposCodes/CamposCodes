@@ -102,8 +102,8 @@
 </div>
 
 <hr>
--->
-<!-- Projetos Acadêmicos / Estudos -->
+
+Projetos Acadêmicos / Estudos 
 <div style="margin-top:1.5em;">
   <h3 align="center" style="font-weight:500; margin-bottom:0.5em;">📚 Aprendizado Estruturado</h3>
   
@@ -142,8 +142,8 @@
   </ul>
   </details>
 </div>
- -->
 <hr>
+-->
 
 <!-- GitHub Stats -->
 <div align="center" style="margin-top:1.5em;">
