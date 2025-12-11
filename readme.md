@@ -39,10 +39,7 @@
       </td>
       <td style="width:100%; vertical-align:top; border:0; padding-bottom:12px;">
         <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
-          Buscando oportunidades como <strong>Desenvolvedor Full-Stack Java + Vue.js</strong>
-        </p>
-        <p style="margin:0.2em 0 0 0; font-size:12px; color:#6b7280; line-height:1.3;">
-          Estágio, júnior ou projetos colaborativos em empresas que valorizam código limpo e evolução técnica
+          Atuando como <strong>Desenvolvedor Full-Stack Java + Vue.js</strong> 
         </p>
       </td>
     </tr>
