@@ -70,35 +70,45 @@
 <div align="center" style="margin-top:1.5em;">
   <h3 style="font-weight:500; margin-bottom:0.3em;">🛠️ Stack Técnica</h3>
 
-  <details open style="margin-top:0.8em;">
-  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">⚙️ Backend & Infraestrutura</summary>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
-    <img src="./plus/Languages/java.svg" alt="Java" title="Java" width="70" height="70"/>
-    <img src="./plus/Languages/springboot.svg" alt="Spring Boot" title="Spring Boot" width="70" height="70"/>
-    <img src="./plus/Languages/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="70" height="70"/>
-    <img src="./plus/Languages/docker.svg" alt="Docker" title="Docker" width="70" height="70"/>
+  <!-- Frontend full width -->
+  <div style="width:100%; max-width:900px; margin-top:0.8em;">
+    <details open>
+      <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🎨 Frontend & Frameworks</summary>
+      <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
+        <img src="./plus/Languages/vuejs.svg" alt="Vue.js" title="Vue.js" width="70" height="70"/>
+        <img src="./plus/Languages/nuxt.svg" alt="Nuxt" title="Nuxt" width="70" height="70"/>
+        <img src="./plus/Languages/reactjs.svg" alt="React.js" title="React.js" width="70" height="70"/>
+        <img src="./plus/Languages/nextjs.svg" alt="Next.js" title="Next.js" width="70" height="70"/>
+        <img src="./plus/Languages/javascript.svg" alt="JavaScript" title="JavaScript" width="60" height="70"/>
+        <img src="./plus/Languages/typescript.svg" alt="TypeScript" title="TypeScript" width="60" height="70"/>
+      </div>
+    </details>
   </div>
-  </details>
 
-  <details open style="margin-top:0.8em;">
-  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🎨 Frontend & Frameworks</summary>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
-    <img src="./plus/Languages/vuejs.svg" alt="Vue.js" title="Vue.js" width="70" height="70"/>
-    <img src="./plus/Languages/nuxt.svg" alt="Nuxt" title="Nuxt" width="70" height="70"/>
-    <img src="./plus/Languages/reactjs.svg" alt="React.js" title="React.js" width="70" height="70"/>
-    <img src="./plus/Languages/nextjs.svg" alt="Next.js" title="Next.js" width="70" height="70"/>
-    <img src="./plus/Languages/javascript.svg" alt="JavaScript" title="JavaScript" width="60" height="70"/>
-    <img src="./plus/Languages/typescript.svg" alt="TypeScript" title="TypeScript" width="60" height="70"/>
-  </div>
-  </details>
+  <!-- Two columns 50/50: Tools & Versionamento | Backend & Infraestrutura -->
+  <div style="display:flex; gap:1.2em; justify-content:center; margin-top:1em; flex-wrap:wrap; max-width:900px;">
+    <div style="flex:1 1 320px; min-width:280px;">
+      <details open>
+        <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔧 Ferramentas & Versionamento</summary>
+        <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
+          <img src="./plus/Languages/git.svg" alt="Git" title="Git" width="70" height="70" style="background:transparent;"/>
+          <img src="./plus/Languages/github-mark.svg" alt="GitHub" title="GitHub" width="70" height="70"/>
+        </div>
+      </details>
+    </div>
 
-  <details open style="margin-top:0.8em;">
-  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔧 Ferramentas & Versionamento</summary>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
-    <img src="./plus/Languages/git.svg" alt="Git" title="Git" width="70" height="70" style="background:transparent;"/>
-    <img src="./plus/Languages/github-mark.svg" alt="GitHub" title="GitHub" width="70" height="70"/>
+    <div style="flex:1 1 320px; min-width:280px;">
+      <details open>
+        <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">⚙️ Backend & Infraestrutura</summary>
+        <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
+          <img src="./plus/Languages/java.svg" alt="Java" title="Java" width="70" height="70"/>
+          <img src="./plus/Languages/springboot.svg" alt="Spring Boot" title="Spring Boot" width="70" height="70"/>
+          <img src="./plus/Languages/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="70" height="70"/>
+          <img src="./plus/Languages/docker.svg" alt="Docker" title="Docker" width="70" height="70"/>
+        </div>
+      </details>
+    </div>
   </div>
-  </details>
 </div>
 
 <hr>
