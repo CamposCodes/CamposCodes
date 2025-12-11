@@ -85,28 +85,32 @@
     </details>
   </div>
 
-  <!-- Tools & Versionamento | Backend & Infraestrutura -->
-  <div style="display:flex; gap:1.2em; justify-content:center; margin-top:1em; flex-wrap:wrap; max-width:900px;">
-    <div style="flex:1 1 320px; min-width:280px;">
-      <details open>
-        <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔧 Ferramentas & Versionamento</summary>
-        <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
-          <img src="./plus/Languages/git.svg" alt="Git" title="Git" width="70" height="70" style="background:transparent;"/>
-          <img src="./plus/Languages/github-mark.svg" alt="GitHub" title="GitHub" width="70" height="70"/>
-        </div>
-      </details>
-    </div>
-    <div style="flex:1 1 320px; min-width:280px;">
-      <details open>
-        <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">⚙️ Backend & Infraestrutura</summary>
-        <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
-          <img src="./plus/Languages/java.svg" alt="Java" title="Java" width="70" height="70"/>
-          <img src="./plus/Languages/springboot.svg" alt="Spring Boot" title="Spring Boot" width="70" height="70"/>
-          <img src="./plus/Languages/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="70" height="70"/>
-          <img src="./plus/Languages/docker.svg" alt="Docker" title="Docker" width="70" height="70"/>
-        </div>
-      </details>
-    </div>
+  <!-- Tools & Versionamento | Backend & Infraestrutura (tabela 50/50) -->
+  <div style="width:100%; max-width:900px; margin-top:1em;">
+    <table style="width:100%; border-collapse:collapse;">
+      <tr>
+        <td style="width:50%; vertical-align:top; padding-right:0.6em;">
+          <details open>
+            <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔧 Ferramentas & Versionamento</summary>
+            <div style="display:flex; flex-wrap:wrap; justify-content:flex-start; gap:0.8em; margin-top:0.6em;">
+              <img src="./plus/Languages/git.svg" alt="Git" title="Git" width="70" height="70" style="background:transparent;"/>
+              <img src="./plus/Languages/github-mark.svg" alt="GitHub" title="GitHub" width="70" height="70"/>
+            </div>
+          </details>
+        </td>
+        <td style="width:50%; vertical-align:top; padding-left:0.6em;">
+          <details open>
+            <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">⚙️ Backend & Infraestrutura</summary>
+            <div style="display:flex; flex-wrap:wrap; justify-content:flex-start; gap:0.8em; margin-top:0.6em;">
+              <img src="./plus/Languages/java.svg" alt="Java" title="Java" width="70" height="70"/>
+              <img src="./plus/Languages/springboot.svg" alt="Spring Boot" title="Spring Boot" width="70" height="70"/>
+              <img src="./plus/Languages/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="70" height="70"/>
+              <img src="./plus/Languages/docker.svg" alt="Docker" title="Docker" width="70" height="70"/>
+            </div>
+          </details>
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
 
