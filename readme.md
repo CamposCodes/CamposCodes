@@ -85,7 +85,7 @@
     </details>
   </div>
 
-  <!-- Two columns 50/50: Tools & Versionamento | Backend & Infraestrutura -->
+  <!-- Tools & Versionamento | Backend & Infraestrutura -->
   <div style="display:flex; gap:1.2em; justify-content:center; margin-top:1em; flex-wrap:wrap; max-width:900px;">
     <div style="flex:1 1 320px; min-width:280px;">
       <details open>
@@ -96,7 +96,6 @@
         </div>
       </details>
     </div>
-
     <div style="flex:1 1 320px; min-width:280px;">
       <details open>
         <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">⚙️ Backend & Infraestrutura</summary>
