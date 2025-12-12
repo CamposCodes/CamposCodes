@@ -114,8 +114,8 @@
   <details open style="margin-top:0.8em;">
   <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🚀 DevOps & CI/CD</summary>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
-    <img src="./plus/Languages/jenkins.svg" alt="Jenkins" title="Jenkins" width="70" height="70"/>
-    <img src="./plus/Languages/argocd.svg" alt="ArgoCD" title="ArgoCD" width="70" height="70"/>
+    <img src="./plus/Languages/jenkins.svg" alt="Jenkins" title="Jenkins" width="90" height="90"/>
+    <img src="./plus/Languages/argocd.svg" alt="ArgoCD" title="ArgoCD" width="90" height="90"/>
   </div>
   </details>
 
