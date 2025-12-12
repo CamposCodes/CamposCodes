@@ -159,7 +159,7 @@ Projetos Acadêmicos / Estudos
 <div align="center" style="margin-top:1.5em;">
   <h3 style="font-weight:500; margin-bottom:0.5em;">🤝 Vamos conversar?</h3>
   <p style="font-size:14px; color:#6b7280; margin-top:0.3em; line-height:1.6;">
-    Estou aberto a oportunidades de estágio/júnior, projetos open source e networking com outros devs.<br>
+    Estou aberto a oportunidades, projetos open source e networking com outros devs.<br>
     Se você busca um desenvolvedor full-stack comprometido com qualidade e evolução técnica, entre em contato!
   </p>
 
