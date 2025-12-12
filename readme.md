@@ -87,16 +87,43 @@
     <img src="./plus/Languages/nuxt.svg" alt="Nuxt" title="Nuxt" width="70" height="70"/>
     <img src="./plus/Languages/reactjs.svg" alt="React.js" title="React.js" width="70" height="70"/>
     <img src="./plus/Languages/nextjs.svg" alt="Next.js" title="Next.js" width="70" height="70"/>
-    <img src="./plus/Languages/javascript.svg" alt="JavaScript" title="JavaScript" width="60" height="70"/>
-    <img src="./plus/Languages/typescript.svg" alt="TypeScript" title="TypeScript" width="60" height="70"/>
+    <img src="./plus/Languages/javascript.svg" alt="JavaScript" title="JavaScript" width="70" height="70"/>
+    <img src="./plus/Languages/typescript.svg" alt="TypeScript" title="TypeScript" width="70" height="70"/>
+  </div>
+  </details>
+
+  <details open style="margin-top:0.8em;">
+  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🧪 Testes & Qualidade</summary>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
+    <img src="./plus/Languages/junit.svg" alt="JUnit" title="JUnit" width="70" height="70"/>
+    <img src="./plus/Languages/jest.svg" alt="Jest" title="Jest" width="70" height="70"/>
+    <img src="./plus/Languages/vitest.svg" alt="Vitest" title="Vitest" width="70" height="70"/>
+    <img src="./plus/Languages/cypress.svg" alt="Cypress" title="Cypress" width="70" height="70"/>
+    <img src="./plus/Languages/playwright.svg" alt="Playwright" title="Playwright" width="70" height="70"/>
+  </div>
+  </details>
+
+  <details open style="margin-top:0.8em;">
+  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔌 APIs & Cliente HTTP</summary>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
+    <img src="./plus/Languages/postman.svg" alt="Postman" title="Postman" width="70" height="70"/>
+    <img src="./plus/Languages/insomnia.svg" alt="Insomnia" title="Insomnia" width="70" height="70"/>
+  </div>
+  </details>
+
+  <details open style="margin-top:0.8em;">
+  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🚀 DevOps & CI/CD</summary>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
+    <img src="./plus/Languages/jenkins.svg" alt="Jenkins" title="Jenkins" width="70" height="70"/>
+    <img src="./plus/Languages/argocd.svg" alt="ArgoCD" title="ArgoCD" width="70" height="70"/>
   </div>
   </details>
 
   <details open style="margin-top:0.8em;">
   <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔧 Ferramentas & Versionamento</summary>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
-    <img src="./plus/Languages/git.svg" alt="Git" title="Git" width="70" height="70" style="background:transparent;"/>
-    <img src="./plus/Languages/github-mark.svg" alt="GitHub" title="GitHub" width="70" height="70"/>
+    <img src="./plus/Languages/git.svg" alt="Git" title="Git" width="70" height="70"/>
+    <img src="./plus/Languages/github.svg" alt="GitHub" title="GitHub" width="70" height="70"/>
   </div>
   </details>
 </div>
