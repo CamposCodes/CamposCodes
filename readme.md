@@ -40,14 +40,14 @@
 <div align="center" style="margin-top:2em; margin-bottom:2em;">
   <h3 style="font-weight:500; margin-bottom:0.7em;">💼 O que eu faço <span style="font-weight:400; color:#6b7280; margin-left:8px;">| What I do</span></h3>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1.2em; max-width:1100px; margin:0 auto;">
-    <img src="./plus/Cards/card-saas.svg" alt="Sistemas SaaS e de alta escala" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-performance.svg" alt="Otimização de performance" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-architecture.svg" alt="Arquitetura limpa e design de sistemas" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-security.svg" alt="APIs seguras e autenticação" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-payments.svg" alt="Pagamentos, assinaturas e lógica de negócios" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-automation.svg" alt="Automação e integrações" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-analytics.svg" alt="Dashboards e análises" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-teaching.svg" alt="Ensino e mentoria" width="340" height="100" style="margin-bottom:1em;"/>
+    <img src="./plus/Cards/secondary/card-saas.svg" alt="Sistemas SaaS e de alta escala" width="340" height="100" style="margin-bottom:1em;"/>
+    <img src="./plus/Cards/secondary/card-performance.svg" alt="Otimização de performance" width="340" height="100" style="margin-bottom:1em;"/>
+    <img src="./plus/Cards/secondary/card-architecture.svg" alt="Arquitetura limpa e design de sistemas" width="340" height="100" style="margin-bottom:1em;"/>
+    <img src="./plus/Cards/secondary/card-security.svg" alt="APIs seguras e autenticação" width="340" height="100" style="margin-bottom:1em;"/>
+    <img src="./plus/Cards/secondary/card-payments.svg" alt="Pagamentos, assinaturas e lógica de negócios" width="340" height="100" style="margin-bottom:1em;"/>
+    <img src="./plus/Cards/secondary/card-automation.svg" alt="Automação e integrações" width="340" height="100" style="margin-bottom:1em;"/>
+    <img src="./plus/Cards/secondary/card-analytics.svg" alt="Dashboards e análises" width="340" height="100" style="margin-bottom:1em;"/>
+    <img src="./plus/Cards/secondary/card-teaching.svg" alt="Ensino e mentoria" width="340" height="100" style="margin-bottom:1em;"/>
   </div>
 </div>
 
