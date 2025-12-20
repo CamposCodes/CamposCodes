@@ -78,6 +78,55 @@
 
 <hr>
 
+<!-- O que eu faço / What I do -->
+<div align="center" style="margin-top:2em; margin-bottom:2em;">
+  <h3 style="font-weight:500; margin-bottom:0.7em;">💼 O que eu faço <span style="font-weight:400; color:#6b7280; margin-left:8px;">| What I do</span></h3>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1.2em; max-width:900px; margin:0 auto;">
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">🚀</span> <span style="font-weight:600;">Sistemas SaaS e de alta escala</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">SaaS & high-scale systems</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">⚡</span> <span style="font-weight:600;">Otimização de performance</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Performance optimization</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">🏗️</span> <span style="font-weight:600;">Arquitetura limpa e design de sistemas</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Clean architecture and system design</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">🔐</span> <span style="font-weight:600;">APIs seguras e autenticação</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Secure APIs and authentication</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">💳</span> <span style="font-weight:600;">Pagamentos, assinaturas e lógica de negócios</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Payments, subscriptions, and business logic</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">🔄</span> <span style="font-weight:600;">Automação e integrações</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Automation and integration</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">📊</span> <span style="font-weight:600;">Dashboards e análises</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Dashboards and analytics</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">👨‍🏫</span> <span style="font-weight:600;">Ensino e mentoria</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Teaching and mentoring</span>
+    </div>
+  </div>
+</div>
+
+<hr>
+
 <!-- Stack Técnica -->
 <div align="center" style="margin-top:1.5em;">
   <h3 style="font-weight:500; margin-bottom:0.3em;">🛠️ Stack Técnica <span style="font-weight:400; color:#6b7280; margin-left:8px;">| Tech Stack</span></h3>
