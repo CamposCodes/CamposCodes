@@ -1,3 +1,11 @@
+## 💼 O que eu faço | What I do
+
+| 🚀 **Sistemas SaaS e de alta escala**<br><sub>SaaS & high-scale systems</sub> | ⚡ **Otimização de performance**<br><sub>Performance optimization</sub> |
+|:--------------------------------------------------|:--------------------------------------------------|
+| 🏗️ **Arquitetura limpa e design de sistemas**<br><sub>Clean architecture and system design</sub> | 🔐 **APIs seguras e autenticação**<br><sub>Secure APIs and authentication</sub> |
+| 💳 **Pagamentos, assinaturas e lógica de negócios**<br><sub>Payments, subscriptions, and business logic</sub> | 🔄 **Automação e integrações**<br><sub>Automation and integration</sub> |
+| 📊 **Dashboards e análises**<br><sub>Dashboards and analytics</sub> | 👨‍🏫 **Ensino e mentoria**<br><sub>Teaching and mentoring</sub> |
+
 <!-- Header -->
 <h2 align="left" style="font-size: 2em; margin-bottom: 0;">
   Olá, eu sou Gabriel Campos
