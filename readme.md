@@ -2,7 +2,7 @@
 <h2 align="left" style="font-size: 2em; margin-bottom: 0;">
   Olá, eu sou Gabriel Campos
   <br/>
-  <em>Hello, I'm Gabriel Campos</em>
+  <em style="margin-top: 0; color:#6b7280;font-weight: 400;">Hello, I'm Gabriel Campos</em>
   <img align="center" width="48" height="48" src="./plus/Main/hello.gif" alt="Olá">
 </h2>
 
@@ -12,8 +12,8 @@
   <div style="max-width: 70%;">
     <h3 style="margin-top: 0; font-weight: 600;">Desenvolvedor Full-Stack | Java + Spring Boot + Vue.js</h3>
     <br/>
-    <em style="display:block; margin-bottom:0.5em; color:#6b7280;">Full-Stack Developer | Java + Spring Boot + Vue.js</em>
-    <p style="margin-top: 0.5em; line-height: 1.6;">
+    <em style="display:block;margin-top:-2em; color:#6b7280;">Full-Stack Developer | Java + Spring Boot + Vue.js</em>
+    <p style="line-height: 1.6; margin-top: 2em">
       Graduando em <strong>Sistemas de Informação</strong> na UFJF, focado em construir aplicações web escaláveis e performáticas. Experiência hands-on com desenvolvimento backend robusto (Java/Spring) e interfaces modernas e reativas (Vue/Nuxt). Atualmente aprofundando conhecimentos em arquitetura de microsserviços e padrões de design enterprise.
       <br/>
       <em style="color:#6b7280;">Information Systems undergraduate at UFJF, focused on building scalable and high-performance web applications. Hands-on experience with robust backend development (Java/Spring) and modern, reactive interfaces (Vue/Nuxt). Currently deepening knowledge in microservices architecture and enterprise design patterns.</em>
@@ -82,12 +82,10 @@
 
 <!-- Stack Técnica -->
 <div align="center" style="margin-top:1.5em;">
-  <h3 style="font-weight:500; margin-bottom:0.3em;">🛠️ Stack Técnica</h3>
+  <h3 style="font-weight:500; margin-bottom:0.3em;">🛠️ Stack Técnica <span style="font-weight:400; color:#6b7280; margin-left:8px;">| Tech Stack</span></h3>
 
   <details open style="margin-top:0.8em;">
-  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">⚙️ Backend & Infraestrutura</summary>
-  <br/>
-  <em style="font-size:13px; color:#6b7280; display:block;">⚙️ Backend & Infrastructure</em>
+  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">⚙️ Backend & Infraestrutura <span style="font-weight:400; color:#6b7280; margin-left:8px;">| Backend & Infrastructure</span></summary>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/java.svg" alt="Java" title="Java" width="70" height="70"/>
     <img src="./plus/Languages/springboot.svg" alt="Spring Boot" title="Spring Boot" width="70" height="70"/>
@@ -97,9 +95,7 @@
   </details>
 
   <details open style="margin-top:0.8em;">
-  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🎨 Frontend & Frameworks</summary>
-  <br/>
-  <em style="font-size:13px; color:#6b7280; display:block;">🎨 Frontend & Frameworks</em>
+  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🎨 Frontend & Frameworks <span style="font-weight:400; color:#6b7280; margin-left:8px;">| Frontend & Frameworks</span></summary>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/vuejs.svg" alt="Vue.js" title="Vue.js" width="70" height="70"/>
     <img src="./plus/Languages/nuxt.svg" alt="Nuxt" title="Nuxt" width="70" height="70"/>
@@ -111,9 +107,7 @@
   </details>
 
   <details open style="margin-top:0.8em;">
-  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🧪 Testes & Qualidade</summary>
-  <br/>
-  <em style="font-size:13px; color:#6b7280; display:block;">🧪 Testing & Quality</em>
+  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🧪 Testes & Qualidade <span style="font-weight:400; color:#6b7280; margin-left:8px;">| Testing & Quality</span></summary>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/junit.svg" alt="JUnit" title="JUnit" width="70" height="70"/>
     <img src="./plus/Languages/jest.svg" alt="Jest" title="Jest" width="70" height="70"/>
@@ -124,9 +118,7 @@
   </details>
 
   <details open style="margin-top:0.8em;">
-  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔌 APIs & Cliente HTTP</summary>
-  <br/>
-  <em style="font-size:13px; color:#6b7280; display:block;">🔌 APIs & HTTP Clients</em>
+  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔌 APIs & Cliente HTTP <span style="font-weight:400; color:#6b7280; margin-left:8px;">| APIs & HTTP Clients</span></summary>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/postman.svg" alt="Postman" title="Postman" width="70" height="70"/>
     <img src="./plus/Languages/insomnia.svg" alt="Insomnia" title="Insomnia" width="70" height="70"/>
@@ -134,9 +126,7 @@
   </details>
 
   <details open style="margin-top:0.8em;">
-  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🚀 DevOps & CI/CD</summary>
-  <br/>
-  <em style="font-size:13px; color:#6b7280; display:block;">🚀 DevOps & CI/CD</em>
+  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🚀 DevOps & CI/CD <span style="font-weight:400; color:#6b7280; margin-left:8px;">| DevOps & CI/CD</span></summary>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/jenkins.svg" alt="Jenkins" title="Jenkins" width="90" height="90"/>
     <img src="./plus/Languages/argocd.svg" alt="ArgoCD" title="ArgoCD" width="90" height="90"/>
@@ -144,9 +134,7 @@
   </details>
 
   <details open style="margin-top:0.8em;">
-  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔧 Ferramentas & Versionamento</summary>
-  <br/>
-  <em style="font-size:13px; color:#6b7280; display:block;">🔧 Tools & Version Control</em>
+  <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔧 Ferramentas & Versionamento <span style="font-weight:400; color:#6b7280; margin-left:8px;">| Tools & Version Control</span></summary>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/git.svg" alt="Git" title="Git" width="70" height="70"/>
     <img src="./plus/Languages/github.svg" alt="GitHub" title="GitHub" width="70" height="70"/>
