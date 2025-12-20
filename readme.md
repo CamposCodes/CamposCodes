@@ -70,8 +70,6 @@
         <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
           📧 <strong>dev.camposgabriel@gmail.com</strong> | 
           💼 <a href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><strong>LinkedIn</strong></a>
-          <br/>
-          <em style="color:#6b7280;">dev.camposgabriel@gmail.com | LinkedIn</em>
         </p>
       </td>
     </tr>
