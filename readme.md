@@ -1,4 +1,3 @@
-
 <!-- Header -->
 <h2 align="left" style="font-size: 2em; margin-bottom: 0;">
   Olá, eu sou Gabriel Campos
@@ -80,82 +79,49 @@
 <hr>
 
 <!-- O que eu faço / What I do -->
-
 <div align="center" style="margin-top:2em; margin-bottom:2em;">
   <h3 style="font-weight:500; margin-bottom:0.7em;">💼 O que eu faço <span style="font-weight:400; color:#6b7280; margin-left:8px;">| What I do</span></h3>
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1.2em; max-width:1100px; margin:0 auto;">
-    <!-- SaaS -->
-    <span style="display:inline-block; margin-bottom:1em;">
-      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
-        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
-        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">🚀</text>
-        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Sistemas SaaS e de alta escala</text>
-        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">SaaS &amp; high-scale systems</text>
-      </svg>
-    </span>
-    <!-- Performance -->
-    <span style="display:inline-block; margin-bottom:1em;">
-      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
-        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
-        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">⚡</text>
-        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Otimização de performance</text>
-        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Performance optimization</text>
-      </svg>
-    </span>
-    <!-- Arquitetura -->
-    <span style="display:inline-block; margin-bottom:1em;">
-      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
-        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
-        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">🏗️</text>
-        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Arquitetura limpa e design</text>
-        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Clean architecture and system design</text>
-      </svg>
-    </span>
-    <!-- Segurança -->
-    <span style="display:inline-block; margin-bottom:1em;">
-      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
-        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
-        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">🔐</text>
-        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">APIs seguras e autenticação</text>
-        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Secure APIs and authentication</text>
-      </svg>
-    </span>
-    <!-- Pagamentos -->
-    <span style="display:inline-block; margin-bottom:1em;">
-      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
-        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
-        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">💳</text>
-        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Pagamentos e assinaturas</text>
-        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Payments, subscriptions &amp; business logic</text>
-      </svg>
-    </span>
-    <!-- Automação -->
-    <span style="display:inline-block; margin-bottom:1em;">
-      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
-        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
-        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">🔄</text>
-        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Automação e integrações</text>
-        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Automation and integration</text>
-      </svg>
-    </span>
-    <!-- Analytics -->
-    <span style="display:inline-block; margin-bottom:1em;">
-      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
-        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
-        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">📊</text>
-        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Dashboards e análises</text>
-        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Dashboards and analytics</text>
-      </svg>
-    </span>
-    <!-- Ensino -->
-    <span style="display:inline-block; margin-bottom:1em;">
-      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
-        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
-        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">👨‍🏫</text>
-        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Ensino e mentoria</text>
-        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Teaching and mentoring</text>
-      </svg>
-    </span>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1.2em; max-width:900px; margin:0 auto;">
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">🚀</span> <span style="font-weight:600;">Sistemas SaaS e de alta escala</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">SaaS & high-scale systems</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">⚡</span> <span style="font-weight:600;">Otimização de performance</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Performance optimization</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">🏗️</span> <span style="font-weight:600;">Arquitetura limpa e design de sistemas</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Clean architecture and system design</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">🔐</span> <span style="font-weight:600;">APIs seguras e autenticação</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Secure APIs and authentication</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">💳</span> <span style="font-weight:600;">Pagamentos, assinaturas e lógica de negócios</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Payments, subscriptions, and business logic</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">🔄</span> <span style="font-weight:600;">Automação e integrações</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Automation and integration</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">📊</span> <span style="font-weight:600;">Dashboards e análises</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Dashboards and analytics</span>
+    </div>
+    <div style="background:#181c20; border:1.5px solid #2d3748; border-radius:12px; padding:1.1em 1.3em; min-width:260px; max-width:340px; margin-bottom:1em; box-shadow:0 2px 8px 0 rgba(0,0,0,0.07);">
+      <span style="font-size:1.3em;">👨‍🏫</span> <span style="font-weight:600;">Ensino e mentoria</span>
+      <br/>
+      <span style="color:#6b7280; font-weight:400; font-size:1em;">Teaching and mentoring</span>
+    </div>
   </div>
 </div>
 
