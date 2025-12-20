@@ -1,6 +1,8 @@
 <!-- Header -->
 <h2 align="left" style="font-size: 2em; margin-bottom: 0;">
   Olá, eu sou Gabriel Campos
+  <br/>
+  <em>Hello, I'm Gabriel Campos</em>
   <img align="center" width="48" height="48" src="./plus/Main/hello.gif" alt="Olá">
 </h2>
 
@@ -9,8 +11,12 @@
   <img width="220" height="160" align="right" src="./plus/Main/top.png" alt="Profile" style="margin-left: 1em;"/>
   <div style="max-width: 70%;">
     <h3 style="margin-top: 0; font-weight: 600;">Desenvolvedor Full-Stack | Java + Spring Boot + Vue.js</h3>
+    <br/>
+    <em style="display:block; margin-bottom:0.5em; color:#6b7280;">Full-Stack Developer | Java + Spring Boot + Vue.js</em>
     <p style="margin-top: 0.5em; line-height: 1.6;">
       Graduando em <strong>Sistemas de Informação</strong> na UFJF, focado em construir aplicações web escaláveis e performáticas. Experiência hands-on com desenvolvimento backend robusto (Java/Spring) e interfaces modernas e reativas (Vue/Nuxt). Atualmente aprofundando conhecimentos em arquitetura de microsserviços e padrões de design enterprise.
+      <br/>
+      <em style="color:#6b7280;">Information Systems undergraduate at UFJF, focused on building scalable and high-performance web applications. Hands-on experience with robust backend development (Java/Spring) and modern, reactive interfaces (Vue/Nuxt). Currently deepening knowledge in microservices architecture and enterprise design patterns.</em>
     </p>
   </div>
 </div>
@@ -27,6 +33,8 @@
       <td style="width:100%; vertical-align:top; border:0; padding-bottom:12px;">
         <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
          Cursando <strong>Sistemas de Informação</strong> na Universidade Federal de Juiz de Fora (UFJF)
+         <br/>
+         <em style="color:#6b7280;">Pursuing a degree in Information Systems at the Federal University of Juiz de Fora (UFJF)</em>
         </p>
       </td>
     </tr>
@@ -36,7 +44,9 @@
       </td>
       <td style="width:100%; vertical-align:top; border:0; padding-bottom:12px;">
         <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
-          Atuando como <strong>Desenvolvedor Full-Stack Java + Vue.js</strong> 
+          Atuando como <strong>Desenvolvedor Full-Stack Java + Vue.js</strong>
+          <br/>
+          <em style="color:#6b7280;">Working as a Full-Stack Developer with Java + Vue.js</em>
         </p>
       </td>
     </tr>
@@ -47,6 +57,8 @@
       <td style="width:100%; vertical-align:top; border:0; padding-bottom:12px;">
         <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
           Aprofundando conhecimentos em: <strong>Spring Boot</strong> (APIs RESTful, JPA/Hibernate), <strong>Vue.js 3</strong> (Composition API, Pinia), <strong>Docker</strong> e <strong>Clean Architecture</strong>
+          <br/>
+          <em style="color:#6b7280;">Deepening expertise in: Spring Boot (RESTful APIs, JPA/Hibernate), Vue.js 3 (Composition API, Pinia), Docker, and Clean Architecture</em>
         </p>
       </td>
     </tr>
@@ -58,6 +70,8 @@
         <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
           📧 <strong>dev.camposgabriel@gmail.com</strong> | 
           💼 <a href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><strong>LinkedIn</strong></a>
+          <br/>
+          <em style="color:#6b7280;">dev.camposgabriel@gmail.com | LinkedIn</em>
         </p>
       </td>
     </tr>
@@ -72,6 +86,8 @@
 
   <details open style="margin-top:0.8em;">
   <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">⚙️ Backend & Infraestrutura</summary>
+  <br/>
+  <em style="font-size:13px; color:#6b7280; display:block;">⚙️ Backend & Infrastructure</em>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/java.svg" alt="Java" title="Java" width="70" height="70"/>
     <img src="./plus/Languages/springboot.svg" alt="Spring Boot" title="Spring Boot" width="70" height="70"/>
@@ -82,6 +98,8 @@
 
   <details open style="margin-top:0.8em;">
   <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🎨 Frontend & Frameworks</summary>
+  <br/>
+  <em style="font-size:13px; color:#6b7280; display:block;">🎨 Frontend & Frameworks</em>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/vuejs.svg" alt="Vue.js" title="Vue.js" width="70" height="70"/>
     <img src="./plus/Languages/nuxt.svg" alt="Nuxt" title="Nuxt" width="70" height="70"/>
@@ -94,6 +112,8 @@
 
   <details open style="margin-top:0.8em;">
   <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🧪 Testes & Qualidade</summary>
+  <br/>
+  <em style="font-size:13px; color:#6b7280; display:block;">🧪 Testing & Quality</em>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/junit.svg" alt="JUnit" title="JUnit" width="70" height="70"/>
     <img src="./plus/Languages/jest.svg" alt="Jest" title="Jest" width="70" height="70"/>
@@ -105,6 +125,8 @@
 
   <details open style="margin-top:0.8em;">
   <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔌 APIs & Cliente HTTP</summary>
+  <br/>
+  <em style="font-size:13px; color:#6b7280; display:block;">🔌 APIs & HTTP Clients</em>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/postman.svg" alt="Postman" title="Postman" width="70" height="70"/>
     <img src="./plus/Languages/insomnia.svg" alt="Insomnia" title="Insomnia" width="70" height="70"/>
@@ -113,6 +135,8 @@
 
   <details open style="margin-top:0.8em;">
   <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🚀 DevOps & CI/CD</summary>
+  <br/>
+  <em style="font-size:13px; color:#6b7280; display:block;">🚀 DevOps & CI/CD</em>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/jenkins.svg" alt="Jenkins" title="Jenkins" width="90" height="90"/>
     <img src="./plus/Languages/argocd.svg" alt="ArgoCD" title="ArgoCD" width="90" height="90"/>
@@ -121,6 +145,8 @@
 
   <details open style="margin-top:0.8em;">
   <summary style="font-weight:500; cursor:pointer; margin-bottom:0.6em;">🔧 Ferramentas & Versionamento</summary>
+  <br/>
+  <em style="font-size:13px; color:#6b7280; display:block;">🔧 Tools & Version Control</em>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.8em; margin-top:0.6em;">
     <img src="./plus/Languages/git.svg" alt="Git" title="Git" width="70" height="70"/>
     <img src="./plus/Languages/github.svg" alt="GitHub" title="GitHub" width="70" height="70"/>
@@ -177,6 +203,8 @@ Projetos Acadêmicos / Estudos
 <!-- GitHub Stats -->
 <div align="center" style="margin-top:1.5em;">
   <h3 style="font-weight:500; margin-bottom:0.5em;">📊 Atividade no GitHub</h3>
+  <br/>
+  <em style="font-weight:400; margin-bottom:0.5em; color:#6b7280; display:block;">📊 GitHub Activity</em>
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub Activity" style="max-width:100%; height:auto; margin-top:0.6em;"/>
 </div>
 
@@ -185,9 +213,13 @@ Projetos Acadêmicos / Estudos
 <!-- Contato / CTA Final -->
 <div align="center" style="margin-top:1.5em;">
   <h3 style="font-weight:500; margin-bottom:0.5em;">🤝 Vamos conversar?</h3>
-  <p style="font-size:14px; color:#6b7280; margin-top:0.3em; line-height:1.6;">
+  <br/>
+  <em style="font-weight:400; margin-bottom:0.5em; color:#6b7280; display:block;">🤝 Let's Connect?</em>
+  <p style="font-size:14px; margin-top:0.3em; line-height:1.6;">
     Estou aberto a oportunidades, projetos open source e networking com outros devs.<br>
     Se você busca um desenvolvedor full-stack comprometido com qualidade e evolução técnica, entre em contato!
+    <br/>
+    <em style="color:#6b7280;">I'm open to opportunities, open source projects, and networking with fellow developers. If you're looking for a full-stack developer committed to quality and technical excellence, feel free to reach out!</em>
   </p>
 
   <div style="display:flex; justify-content:center; gap:1.5em; margin-top:1em;">
@@ -205,6 +237,8 @@ Projetos Acadêmicos / Estudos
 
 ---
 
-<p align="center" style="font-size:12px; color:#6b7280; margin-top:1.5em;">
+<p align="center" style="font-size:12px; margin-top:1.5em;">
   ⭐ Se você achou meus projetos interessantes, considere dar uma estrela nos repositórios!
+  <br/>
+  <em style="color:#6b7280;">⭐ If you found my projects interesting, consider giving them a star!</em>
 </p>
