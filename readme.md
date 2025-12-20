@@ -1,10 +1,3 @@
-## 💼 O que eu faço | What I do
-
-| 🚀 **Sistemas SaaS e de alta escala**<br><sub>SaaS & high-scale systems</sub> | ⚡ **Otimização de performance**<br><sub>Performance optimization</sub> |
-|:--------------------------------------------------|:--------------------------------------------------|
-| 🏗️ **Arquitetura limpa e design de sistemas**<br><sub>Clean architecture and system design</sub> | 🔐 **APIs seguras e autenticação**<br><sub>Secure APIs and authentication</sub> |
-| 💳 **Pagamentos, assinaturas e lógica de negócios**<br><sub>Payments, subscriptions, and business logic</sub> | 🔄 **Automação e integrações**<br><sub>Automation and integration</sub> |
-| 📊 **Dashboards e análises**<br><sub>Dashboards and analytics</sub> | 👨‍🏫 **Ensino e mentoria**<br><sub>Teaching and mentoring</sub> |
 
 <!-- Header -->
 <h2 align="left" style="font-size: 2em; margin-bottom: 0;">
@@ -91,14 +84,78 @@
 <div align="center" style="margin-top:2em; margin-bottom:2em;">
   <h3 style="font-weight:500; margin-bottom:0.7em;">💼 O que eu faço <span style="font-weight:400; color:#6b7280; margin-left:8px;">| What I do</span></h3>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:1.2em; max-width:1100px; margin:0 auto;">
-    <img src="./plus/Cards/card-saas.svg" alt="Sistemas SaaS e de alta escala" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-performance.svg" alt="Otimização de performance" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-architecture.svg" alt="Arquitetura limpa e design de sistemas" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-security.svg" alt="APIs seguras e autenticação" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-payments.svg" alt="Pagamentos, assinaturas e lógica de negócios" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-automation.svg" alt="Automação e integrações" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-analytics.svg" alt="Dashboards e análises" width="340" height="100" style="margin-bottom:1em;"/>
-    <img src="./plus/Cards/card-teaching.svg" alt="Ensino e mentoria" width="340" height="100" style="margin-bottom:1em;"/>
+    <!-- SaaS -->
+    <span style="display:inline-block; margin-bottom:1em;">
+      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
+        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
+        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">🚀</text>
+        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Sistemas SaaS e de alta escala</text>
+        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">SaaS &amp; high-scale systems</text>
+      </svg>
+    </span>
+    <!-- Performance -->
+    <span style="display:inline-block; margin-bottom:1em;">
+      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
+        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
+        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">⚡</text>
+        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Otimização de performance</text>
+        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Performance optimization</text>
+      </svg>
+    </span>
+    <!-- Arquitetura -->
+    <span style="display:inline-block; margin-bottom:1em;">
+      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
+        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
+        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">🏗️</text>
+        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Arquitetura limpa e design</text>
+        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Clean architecture and system design</text>
+      </svg>
+    </span>
+    <!-- Segurança -->
+    <span style="display:inline-block; margin-bottom:1em;">
+      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
+        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
+        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">🔐</text>
+        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">APIs seguras e autenticação</text>
+        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Secure APIs and authentication</text>
+      </svg>
+    </span>
+    <!-- Pagamentos -->
+    <span style="display:inline-block; margin-bottom:1em;">
+      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
+        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
+        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">💳</text>
+        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Pagamentos e assinaturas</text>
+        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Payments, subscriptions &amp; business logic</text>
+      </svg>
+    </span>
+    <!-- Automação -->
+    <span style="display:inline-block; margin-bottom:1em;">
+      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
+        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
+        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">🔄</text>
+        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Automação e integrações</text>
+        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Automation and integration</text>
+      </svg>
+    </span>
+    <!-- Analytics -->
+    <span style="display:inline-block; margin-bottom:1em;">
+      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
+        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
+        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">📊</text>
+        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Dashboards e análises</text>
+        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Dashboards and analytics</text>
+      </svg>
+    </span>
+    <!-- Ensino -->
+    <span style="display:inline-block; margin-bottom:1em;">
+      <svg width="340" height="100" xmlns="http://www.w3.org/2000/svg">
+        <rect width="340" height="100" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
+        <text x="20" y="35" font-family="Arial, sans-serif" font-size="22" fill="#fff">👨‍🏫</text>
+        <text x="55" y="38" font-family="Arial, sans-serif" font-size="16" font-weight="600" fill="#fff">Ensino e mentoria</text>
+        <text x="55" y="62" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">Teaching and mentoring</text>
+      </svg>
+    </span>
   </div>
 </div>
 
