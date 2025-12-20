@@ -10,11 +10,11 @@
 <div>
   <img width="220" height="160" align="right" src="./plus/Main/top.png" alt="Profile" style="margin-left: 1em;"/>
   <div style="max-width: 70%;">
-    <h3 style="margin-top: 0; font-weight: 600;">Desenvolvedor Full-Stack | Java + Spring Boot + Vue.js</h3>
+    <h3 style="margin-top: 0; font-weight: 600;">Full-Stack Developer | Java + Spring Boot + Vue.js</h3>
     <br/>
-    <em style="display:block;margin-top:-2em; color:#6b7280;">Full-Stack Developer | Java + Spring Boot + Vue.js</em>
     <p style="line-height: 1.6; margin-top: 2em">
       Graduando em <strong>Sistemas de Informação</strong> na UFJF, focado em construir aplicações web escaláveis e performáticas. Experiência hands-on com desenvolvimento backend robusto (Java/Spring) e interfaces modernas e reativas (Vue/Nuxt). Atualmente aprofundando conhecimentos em arquitetura de microsserviços e padrões de design enterprise.
+      <br/>
       <br/>
       <em style="color:#6b7280;">Information Systems undergraduate at UFJF, focused on building scalable and high-performance web applications. Hands-on experience with robust backend development (Java/Spring) and modern, reactive interfaces (Vue/Nuxt). Currently deepening knowledge in microservices architecture and enterprise design patterns.</em>
     </p>
