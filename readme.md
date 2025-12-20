@@ -24,57 +24,13 @@
 <br clear="right"/>
 
 <!-- O que faço / Contexto Atual -->
-<table style="min-width:100%; border-collapse:collapse; border:0; margin-top:1.2em;">
-  <tbody>
-    <tr style="border:none;">
-      <td style="width:60px; padding-right:12px; vertical-align:top; border:0; padding-bottom:12px;">
-        <img src="./plus/Main/tip1.png" alt="Formação" width="50" height="50" style="display:block;"/>
-      </td>
-      <td style="width:100%; vertical-align:top; border:0; padding-bottom:12px;">
-        <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
-         Cursando <strong>Sistemas de Informação</strong> na Universidade Federal de Juiz de Fora (UFJF)
-         <br/>
-         <em style="color:#6b7280;">Pursuing a degree in Information Systems at the Federal University of Juiz de Fora (UFJF)</em>
-        </p>
-      </td>
-    </tr>
-    <tr style="border:none;">
-      <td style="width:60px; padding-right:12px; vertical-align:top; border:0; padding-bottom:12px;">
-        <img src="./plus/Main/tip2.png" alt="Foco" width="50" height="50" style="display:block;"/>
-      </td>
-      <td style="width:100%; vertical-align:top; border:0; padding-bottom:12px;">
-        <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
-          Atuando como <strong>Desenvolvedor Full-Stack Java + Vue.js</strong>
-          <br/>
-          <em style="color:#6b7280;">Working as a Full-Stack Developer with Java + Vue.js</em>
-        </p>
-      </td>
-    </tr>
-    <tr style="border:none;">
-      <td style="width:60px; padding-right:12px; vertical-align:top; border:0; padding-bottom:12px;">
-        <img src="./plus/Main/tip3.png" alt="Estudando" width="50" height="50" style="display:block;"/>
-      </td>
-      <td style="width:100%; vertical-align:top; border:0; padding-bottom:12px;">
-        <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
-          Aprofundando conhecimentos em: <strong>Spring Boot</strong> (APIs RESTful, JPA/Hibernate), <strong>Vue.js 3</strong> (Composition API, Pinia), <strong>Docker</strong> e <strong>Clean Architecture</strong>
-          <br/>
-          <em style="color:#6b7280;">Deepening expertise in: Spring Boot (RESTful APIs, JPA/Hibernate), Vue.js 3 (Composition API, Pinia), Docker, and Clean Architecture</em>
-        </p>
-      </td>
-    </tr>
-    <tr style="border:none;">
-      <td style="width:60px; padding-right:12px; vertical-align:top; border:0;">
-        <img src="./plus/Main/tip4.png" alt="Contato" width="50" height="50" style="display:block;"/>
-      </td>
-      <td style="width:100%; vertical-align:top; border:0;">
-        <p style="margin:0; font-size:14px; font-weight:500; line-height:1.3;">
-          📧 <strong>dev.camposgabriel@gmail.com</strong> | 
-          💼 <a href="https://www.linkedin.com/in/gabriel-campos-lima-alves-947554249/" target="_blank"><strong>LinkedIn</strong></a>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+<div style="display:flex; flex-direction:column; align-items:center; gap:0.7em; margin-top:1.2em; margin-bottom:1.2em;">
+  <img src="./plus/Cards/primary/card-education.svg" alt="Educação" width="700" height="80" style="max-width:98vw;"/>
+  <img src="./plus/Cards/primary/card-current-role.svg" alt="Atuação" width="700" height="80" style="max-width:98vw;"/>
+  <img src="./plus/Cards/primary/card-deepening-knowledge.svg" alt="Aprofundando conhecimentos" width="700" height="120" style="max-width:98vw;"/>
+  <img src="./plus/Cards/primary/card-contact.svg" alt="Contato" width="700" height="70" style="max-width:98vw;"/>
+</div>
 
 <hr>
 

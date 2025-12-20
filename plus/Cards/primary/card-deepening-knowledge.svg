@@ -1,0 +1,8 @@
+<svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="120" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
+  <text x="20" y="30" font-family="Arial, sans-serif" font-size="20" fill="#fff">📚</text>
+  <text x="55" y="32" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Aprofundando conhecimentos em:</text>
+  <text x="55" y="52" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#fff">Spring Boot (APIs RESTful, JPA/Hibernate), Vue.js 3 (Composition API, Pinia),</text>
+  <text x="55" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#fff">Docker e Clean Architecture</text>
+  <text x="55" y="95" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Deepening expertise in: Spring Boot, Vue.js 3, Docker, and Clean Architecture</text>
+</svg>

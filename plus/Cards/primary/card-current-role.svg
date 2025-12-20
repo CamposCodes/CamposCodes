@@ -1,0 +1,6 @@
+<svg width="700" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="80" rx="12" fill="#181c20" stroke="#2d3748" stroke-width="1.5"/>
+  <text x="20" y="30" font-family="Arial, sans-serif" font-size="20" fill="#fff">💻</text>
+  <text x="55" y="32" font-family="Arial, sans-serif" font-size="15" font-weight="600" fill="#fff">Atuando como Desenvolvedor Full-Stack Java + Vue.js</text>
+  <text x="55" y="55" font-family="Arial, sans-serif" font-size="13" fill="#6b7280">Working as a Full-Stack Developer with Java + Vue.js</text>
+</svg>
