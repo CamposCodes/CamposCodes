@@ -190,9 +190,7 @@ Projetos Acadêmicos / Estudos
 
 <!-- GitHub Stats -->
 <div align="center" style="margin-top:1.5em;">
-  <h3 style="font-weight:500; margin-bottom:0.5em;">📊 Atividade no GitHub</h3>
-  <br/>
-  <em style="font-weight:400; margin-bottom:0.5em; color:#6b7280; display:block;">📊 GitHub Activity</em>
+  <h3 style="font-weight:500; margin-bottom:0.5em; display:inline;">📊 Atividade no GitHub <span style="font-weight:400; color:#6b7280; margin-left:8px;">| GitHub Activity</span></h3>
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub Activity" style="max-width:100%; height:auto; margin-top:0.6em;"/>
 </div>
 
