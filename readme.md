@@ -25,11 +25,13 @@
 
 <!-- O que faço / Contexto Atual -->
 
-<div style="display:flex; flex-direction:column; align-items:center; gap:0.7em; margin-top:1.2em; margin-bottom:1.2em;">
-  <img src="./plus/Cards/primary/card-education.svg" alt="Educação" width="700" height="80" style="max-width:98vw;"/>
-  <img src="./plus/Cards/primary/card-current-role.svg" alt="Atuação" width="700" height="80" style="max-width:98vw;"/>
-  <img src="./plus/Cards/primary/card-deepening-knowledge.svg" alt="Aprofundando conhecimentos" width="700" height="120" style="max-width:98vw;"/>
-  <img src="./plus/Cards/primary/card-contact.svg" alt="Contato" width="700" height="70" style="max-width:98vw;"/>
+<div align="center" style="width:100%; margin-top:1.2em; margin-bottom:1.2em;">
+  <div style="display:inline-flex; flex-direction:column; align-items:center; gap:1.1em; width:100%; max-width:720px;">
+    <img src="plus/Cards/primary/card-education.svg" alt="Educação" width="700" height="80" style="max-width:98vw; background:#181c20; border-radius:14px; box-shadow:0 2px 12px 0 rgba(0,0,0,0.08);"/>
+    <img src="plus/Cards/primary/card-current-role.svg" alt="Atuação" width="700" height="80" style="max-width:98vw; background:#181c20; border-radius:14px; box-shadow:0 2px 12px 0 rgba(0,0,0,0.08);"/>
+    <img src="plus/Cards/primary/card-deepening-knowledge.svg" alt="Aprofundando conhecimentos" width="700" height="120" style="max-width:98vw; background:#181c20; border-radius:14px; box-shadow:0 2px 12px 0 rgba(0,0,0,0.08);"/>
+    <img src="plus/Cards/primary/card-contact.svg" alt="Contato" width="700" height="70" style="max-width:98vw; background:#181c20; border-radius:14px; box-shadow:0 2px 12px 0 rgba(0,0,0,0.08);"/>
+  </div>
 </div>
 
 <hr>
